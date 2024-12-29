@@ -1,0 +1,263 @@
+= Honey Bee Knowledge Base
+:idprefix:
+:idseparator: -
+:sectanchors:
+:sectlinks:
+:sectnumlevels: 6
+:sectnums:
+:toc: macro
+:toclevels: 6
+:toc-title: Table of contents
+
+toc::[]
+
+== Intro
+
+This book is a collection of knowledge gathered while learning and practising honey bee keeping.
+
+== Contributing
+
+Todo
+
+== Honey bees 
+
+=== Male and female castes
+
+A colony generally contains one queen bee, a female; seasonally up to a few thousand drone bees, or males and tens of thousands of female worker bees.
+
+==== Queen
+
+Mating flight takes place:
+
+* after the queen is fertile, and
+* when the ambiant temperature is above 20.5 degrees, and
+* when and there is little wind, and
+* when the time of day is around or after noon 
+
+
+==== Worker
+
+[cols="5, 1"]
+.Worker tasks indoor
+|===
+| Task | Age   
+
+| * Eating pollen for development of feeding glands +
+| 0 .. 2 D
+
+| * Cleaning empty cells
+| 2 .. 5 D
+
+| Nursing part I: +
+* Feeding larvae + 
+* Feeding queen +
+* Heating +
+* Grooming queen +
+* Capping brood cells 
+| 3 .. 11 D 
+
+| Nursing part II: +
+* Feeding mature bees +
+* Grooming bees
+| 3 - 21 D
+
+| Nursing part III: +
+* Receiving and store nectar from foragers +
+* Processing nectar into honey +
+* Vertilating for climate treatment +
+* Throwing out dead and dying bees, and unusable wax parts +
+* Compressing pollen in cells +
+* Capping the honey and pollen cells when full, uncapping when required +
+* Wax production and building comb 
+| 12 .. 21 D
+
+| * Guarding the entrance(s) to the nest
+| 18 .. 21 D
+
+|===
+
+
+Facts:
+
+* Guard bees have the largest concentration of venom in their gland. 
+* Guard bees require 1 .. 3 seconds to distinguish a bee from the hive from a foreign bee.
+
+[cols="5, 1"]
+.Worker tasks outdoor
+|===
+| Task | Age   
+
+| * Soldier, defening the nest +
+| 22 D .. End of life
+
+| * Foraging nectar, pollen, water, propolis
+| 22 D .. End of life
+
+|===
+
+Facts:
+
+* Nectar and water are collected in the honey stomach
+* Pollen and propolis are collected on the rear legs
+
+
+==== Drone
+
+Todo
+
+
+=== Life cycle
+
+
+[cols="1, 2, 2, 3, 4, 3, 3, 5"]
+.Bee development
+|===
+| Type | Egg | Larva | Pupae | Developing fertility | Mating flights | Laying eggs | Lifetime after birth
+
+| *Queen*
+| 3 D +
+(1 - 3)
+| 6 D +
+(4 - 9)
+| 7 D +
+(10 - 16)
+| 2 .. 4 D +
+(18 .. 19 .. 20)
+| 7 .. 21 D +
+(25 .. 41)
+| 2 .. 4 D +
+(43 .. 45)
+| 1 .. 5 Y +
+(degrading after 2 Y)
+
+| *Worker*
+| 3 D +
+(1 - 3)
+| 6 D +
+(4 - 9)
+| 12 D +
+(10 - 21)
+|
+| 
+|
+| Summer: 49 D (6 W) +
+Winter: upto 1 Y
+
+
+| *Drone*
+| 3 D +
+(1 - 3)
+| 6 D +
+(4 - 9)
+| 15 D +
+(10 - 24)
+| 12 .. 16 D +
+(36 .. 40)
+| Rest of lifetime
+| 
+| 1 .. 2 M
+|===
+
+Time:
+
+* D = Days
+* M = Months
+* Y = Years
+* W = Weeks
+
+=== Communication
+
+==== Dancing
+
+Todo
+
+==== Feromones
+
+Todo
+
+== Food, beverages and caulk
+
+=== Nectar 
+
+=== Honey
+
+Honey is produced by bees who have collected nectar from vegitation or honeydew from other insects. Bees value honey for its sugars, which they consume to support general metabolic activity, especially that of their flight muscles during foraging, and as a food for their larvae. To this end bees stockpile honey to provide for themselves during ordinary foraging as well as during lean periods, as in overwintering.
+
+During foraging bees use part of the nectar they collect to power their flight muscles. The majority of nectar collected is not used to directly nourish the insects but is instead destined for regurgitation, enzymatic digestion, followed by long-term storage as honey in the nest.
+
+Nectar and honeydew consist out of suger, water and trace elements like minerals. The processed honey is required to have a water content percentage that is low enough to prevent the honey from spoiling. By bees regurgitating the nectar, the water in it evaporates and the honey becomes more sugar-concentrated. Once the honey reaches a water percentage below 20 percent, the cell containing the honey is capped with a lid. Capping the honey with a lid prevents the hydroscopic honey from absorbing humidity in the air.
+
+=== Pollen & bee bread
+
+=== Water
+
+=== Propolis
+
+
+== Yearly schedule
+
+=== Summer 
+
+=== Autumn 
+
+=== Winter
+
+=== Spring
+
+== Opening the hive 
+
+=== Schedule
+
+=== Smoke
+
+=== Opening
+
+=== Inspection
+
+Goals of the inspection of the colony are:
+
+1. Checking if the colony is queen-right
+1. Checking if the colony has enough food storage
+1. Checking if there is enough space for new food and new eggs
+1. Checking if there are enough bees to care for and warm the brood
+1. Checking if there are diseases in the colony
+
+==== Queen right
+
+The colony is queen right when:
+
+* It contains a queen, 
+* It contains brood in all stadia: eggs, larvae and pupae
+
+
+==== Enough food storage
+
+A healthy frame with brood contains:
+
+* Plenty of yelly in the open brood, and 
+* Above the brood a layer of pollen and / or beabread, and
+* Above the pollen and / or beebread a layer of honey and / or nectar, and
+* No pinces in the brood capping, and
+* No uncapped brood with pupae in the cell
+
+.Healthy food storage around brood
+[#img-healthy-food-storage] 
+image::images/brood-with-food-storage.png[Healthy food storage]
+
+Bijenbrood en pollen rondom het broed. 
+Als er geen pollen krans rondom het broed aanwezig is, komt er te weinig pollen binnen. Bijvoeden is dan belangrijk, zeker in slechte weersomstandigheden. 
+
+
+==== Enough space 
+
+==== Enough bees
+
+==== Diseases
+
+== Methods
+
+Todo
+
+== Diseases
+
+Todo

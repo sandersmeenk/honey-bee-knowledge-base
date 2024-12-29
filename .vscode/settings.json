@@ -1,0 +1,9 @@
+{
+  "asciidoc.preview.attributes": {
+    "plantuml-server-url": "http://plantuml.com/plantuml"
+  },
+  "asciidoc.preview.asciidoctorAttributes": {
+    "PlantUMLServer": "http://plantuml.com/plantuml",
+    "plantuml-server-url": "http://plantuml.com/plantuml"
+  }
+}
