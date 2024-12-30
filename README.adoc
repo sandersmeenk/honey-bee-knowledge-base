@@ -76,6 +76,8 @@ Mating flight takes place:
 
 |===
 
+D = Days, M = Months, Y = Years, W = Weeks.
+
 
 Facts:
 
@@ -95,10 +97,14 @@ Facts:
 
 |===
 
+D = Days, M = Months, Y = Years, W = Weeks.
+
+
 Facts:
 
 * Nectar and water are collected in the honey stomach
 * Pollen and propolis are collected on the rear legs
+* Foragers can fly upto 3 kilometers 
 
 
 ==== Drone
@@ -108,62 +114,80 @@ Todo
 
 === Life cycle
 
+The bee goes through different phases in its life cycle: egg, larva, pupa, adult bee.
 
-[cols="1, 2, 2, 3, 4, 3, 3, 5"]
-.Bee development
+
+.Birth cycle of honey bees
+[#img-birth-cylce] 
+image::images/birth-cycle.jpg[Birth cycle]
+
+
+*Egg* +
+The queen lays eggs in cells made of beeswax inside the hive. The queen determines the gender of the bee before she lays the egg by fertilizing it or not. If the egg is fertilized, it will be female. If it is unfertilized is will me male. 
+
+*Larva* +
+The egg hatches into a larva after 3 days. The worker bees ensure the larva is fed and looked after. During this period, the larva will grow more than 1500 times its size. When after 6 days the larva reaches its full size and stretches upright in the cell, the top of the cell is sealed with bees wax in preparation for pupation.
+
+*Pupa* + 
+During this stage, the larva will shed its skins. Its eyes, legs and wings will develop along with the tiny hairs that cover the body. 
+
+*Adult* +
+On average, queen bees emerge from the egg in a total of 16 days, workers in 21 days and drones in 24 days. After emerging, new queen bees will fight among themselves until only one is left in the hive. 
+
+
+[cols="1, 2, 2, 3, 1, 4, 3, 3, 5"]
+.Bee development in days
 |===
-| Type | Egg | Larva | Pupae | Developing fertility | Mating flights | Laying eggs | Lifetime after birth
+| Type | Egg (days) | Larva (days) | Pupae (days) | Birth (days) | Developing fertility (days) | Mating flights (days) | Laying eggs (days) | Lifetime after birth
 
 | *Queen*
-| 3 D +
+| 3 +
 (1 - 3)
-| 6 D +
+| 6 +
 (4 - 9)
-| 7 D +
+| 7 +
 (10 - 16)
-| 2 .. 4 D +
+| 16
+| 2 .. 4 +
 (18 .. 19 .. 20)
-| 7 .. 21 D +
+| 7 .. 21 +
 (25 .. 41)
-| 2 .. 4 D +
+| 2 .. 4 +
 (43 .. 45)
 | 1 .. 5 Y +
 (degrading after 2 Y)
 
 | *Worker*
-| 3 D +
+| 3 +
 (1 - 3)
-| 6 D +
+| 6 +
 (4 - 9)
-| 12 D +
+| 12 +
 (10 - 21)
+| 21
 |
 | 
 |
-| Summer: 49 D (6 W) +
+| Summer: 49 (6 W) +
 Winter: upto 1 Y
 
 
 | *Drone*
-| 3 D +
+| 3 +
 (1 - 3)
-| 6 D +
+| 6 +
 (4 - 9)
-| 15 D +
+| 15 +
 (10 - 24)
-| 12 .. 16 D +
+| 24
+| 12 .. 16 +
 (36 .. 40)
 | Rest of lifetime
 | 
 | 1 .. 2 M
 |===
 
-Time:
-
-* D = Days
-* M = Months
-* Y = Years
-* W = Weeks
+D = Days, M = Months, Y = Years, W = Weeks.
 
 === Communication
 
@@ -222,37 +246,62 @@ Goals of the inspection of the colony are:
 1. Checking if there are enough bees to care for and warm the brood
 1. Checking if there are diseases in the colony
 
-==== Queen right
+==== Check: queen right
 
 The colony is queen right when:
 
-* It contains a queen, 
-* It contains brood in all stadia: eggs, larvae and pupae
+* It contains a queen, and or
+* It contains Brood In All Stadia (BRIAS): eggs, larvae and pupae
 
 
-==== Enough food storage
+.Brood in all stadia (BRIAS)
+[#img-brias] 
+image::images/brias.jpg[brias]
 
-A healthy frame with brood contains:
+==== Check: enough food storage
 
-* Plenty of yelly in the open brood, and 
-* Above the brood a layer of pollen and / or beabread, and
-* Above the pollen and / or beebread a layer of honey and / or nectar, and
-* No pinces in the brood capping, and
-* No uncapped brood with pupae in the cell
+A healthy frame with brood contains a proper amount of food. 
 
-.Healthy food storage around brood
-[#img-healthy-food-storage] 
-image::images/brood-with-food-storage.png[Healthy food storage]
+*Plenty of jelly* +
+The cells containing larvae should be filled with plenty of jelly inside it. This jelly is consumed by the larvae and required to stimulate a healthy growth.
 
-Bijenbrood en pollen rondom het broed. 
-Als er geen pollen krans rondom het broed aanwezig is, komt er te weinig pollen binnen. Bijvoeden is dan belangrijk, zeker in slechte weersomstandigheden. 
+If there is little or no jelly in the cells, this may indicate a food shortage. In that case, feeding with sugar water and / or pollen is beneficial. 
 
+.Plenty of jelly
+[#img-plenty-of-jelly] 
+image::images/brood-with-plenty-jelly.png[Plenty of jelly]
 
-==== Enough space 
+*Plenty of pollen* +
+The cells in between the brood, and especially around the brood should be filled with pollen inside it. The presence of pollen in the brood area stimulates nursing bees to consume it and produce jelly to feed the larvae. The pollen stored in between the brood is consumed first. The surplus brood is stored in a layer above the brood. 
 
-==== Enough bees
+If there is only little or no pollen in the cells, this may indicate a food shortage. In that case, feeding additional pollen is beneficial. 
 
-==== Diseases
+.Plenty of pollen
+[#img-plenty-of-pollen] 
+image::images/brood-with-food-storage.png[Plenty of pollen]
+
+*Plenty of honey above the pollen* +
+The cells above the layers of pollen should be filled with honey and / or nectar. 
+
+If there is only little or no honey or nectar in the cells, this may indicate a food shortage. In that case, feeding sugar water is beneficial. 
+
+.Honey above the pollen
+[#img-honey-above-the-pollen] 
+image::images/brood-with-honey.png[Honey above pollen]
+
+.Plenty of honey
+[#img-plenty-of-honey] 
+image::images/brood-with-plenty-honey.jpg[Plenty of honey]
+
+==== Check: enough space 
+
+==== Check: enough bees
+
+==== Check: diseases
+
+No pinces in the brood capping
+
+No uncapped brood with pupae in the cell
 
 == Methods
 
