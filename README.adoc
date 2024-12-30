@@ -119,8 +119,8 @@ The bee goes through different phases in its life cycle: egg, larva, pupa, adult
 
 .Birth cycle of honey bees
 [#img-birth-cylce] 
-image::images/birth-cycle.jpg[Birth cycle]
-
+image::images/birth-cycle.jpg[Birth cycle, 900] 
+{nbsp} +
 
 *Egg* +
 The queen lays eggs in cells made of beeswax inside the hive. The queen determines the gender of the bee before she lays the egg by fertilizing it or not. If the egg is fertilized, it will be female. If it is unfertilized is will me male. 
@@ -184,7 +184,7 @@ Winter: upto 1 Y
 (36 .. 40)
 | Rest of lifetime
 | 
-| 1 .. 2 M
+| 30 .. 60
 |===
 
 D = Days, M = Months, Y = Years, W = Weeks.
@@ -256,7 +256,8 @@ The colony is queen right when:
 
 .Brood in all stadia (BRIAS)
 [#img-brias] 
-image::images/brias.jpg[brias]
+image::images/brias.jpg[brias, 900]
+{nbsp} +
 
 ==== Check: enough food storage
 
@@ -269,7 +270,8 @@ If there is little or no jelly in the cells, this may indicate a food shortage. 
 
 .Plenty of jelly
 [#img-plenty-of-jelly] 
-image::images/brood-with-plenty-jelly.png[Plenty of jelly]
+image::images/brood-with-plenty-jelly.png[Plenty of jelly, 900]
+{nbsp} +
 
 *Plenty of pollen* +
 The cells in between the brood, and especially around the brood should be filled with pollen inside it. The presence of pollen in the brood area stimulates nursing bees to consume it and produce jelly to feed the larvae. The pollen stored in between the brood is consumed first. The surplus brood is stored in a layer above the brood. 
@@ -278,7 +280,8 @@ If there is only little or no pollen in the cells, this may indicate a food shor
 
 .Plenty of pollen
 [#img-plenty-of-pollen] 
-image::images/brood-with-food-storage.png[Plenty of pollen]
+image::images/brood-with-food-storage.png[Plenty of pollen, 900]
+{nbsp} +
 
 *Plenty of honey above the pollen* +
 The cells above the layers of pollen should be filled with honey and / or nectar. 
@@ -287,11 +290,13 @@ If there is only little or no honey or nectar in the cells, this may indicate a 
 
 .Honey above the pollen
 [#img-honey-above-the-pollen] 
-image::images/brood-with-honey.png[Honey above pollen]
+image::images/brood-with-honey.png[Honey above pollen, 900]
+{nbsp} +
 
 .Plenty of honey
 [#img-plenty-of-honey] 
-image::images/brood-with-plenty-honey.jpg[Plenty of honey]
+image::images/brood-with-plenty-honey.jpg[Plenty of honey, 900]
+{nbsp} +
 
 ==== Check: enough space 
 
