@@ -252,12 +252,43 @@ The colony is queen right when:
 
 * It contains a queen, and or
 * It contains Brood In All Stadia (BRIAS): eggs, larvae and pupae
+* It contains even age brood, without too many age difference
+* It contains contiguous brood, without too many empty cells in between the brood
 
 
-.Brood in all stadia (BRIAS)
+.Healhty brood in all stadia with even age (BRIAS)
 [#img-brias] 
 image::images/brias.jpg[brias, 900]
 {nbsp} +
+
+Brood with uneven age can occur when there is not enough food available to feed the larvae, 
+or can be an indication of disease.
+
+.Brood with uneven age
+[#img-brood-uneven-age] 
+image::images/brood-uneven-age.png[Brood with uneven age, 900]
+{nbsp} +
+
+.Contiguous brood
+[#img-brood-non-spotty] 
+image::images/brood-non-spotty.png[Contiguous brood, 900]
+{nbsp} +
+
+Spotty brood can indicate:
+
+* A lack of food in the hive: bees cannibalize the brood as a source of protein
+* A malfunctioning queen that is not laying properly
+
+Spotty brood in late summer and fall can be expected if there is not enough foraging. 
+Spotty brood in spring or early summer is a serious problem as it can prevent the much required build-up of the colony. 
+
+.Spotty brood
+[#img-brood-spotty] 
+image::images/brood-spotty.png[Spotty brood, 900]
+{nbsp} +
+
+
+
 
 ==== Check: enough food storage
 
