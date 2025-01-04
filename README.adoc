@@ -27,10 +27,17 @@ A colony generally contains one queen bee, a female; seasonally up to a few thou
 
 ==== Queen
 
+*Productivity* +
+A productive queen can fill a Langstroth deep frame with eggs within 3 days, at a rate of 1 egg per minute.
+
+Young queens are more productive. And young in this context does not mean the age of the bee, but is measured in the amount of eggs she layed, as she has a limited amount of sperm. In warmer climates where a queen is laying the whole year round, a queen ages faster than in a colder climate with a brood break. 
+Once the productivity of a queen drops, the workers will supersede her with a new queen. 
+
+*Mating flights* +
 Mating flight takes place:
 
 * after the queen is fertile, and
-* when the ambiant temperature is above 20.5 degrees, and
+* when the ambient temperature is above 20.5 degrees, and
 * when and there is little wind, and
 * when the time of day is around or after noon 
 
@@ -89,7 +96,7 @@ Facts:
 |===
 | Task | Age   
 
-| * Soldier, defening the nest +
+| * Soldier, defending the nest +
 | 22 D .. End of life
 
 | * Foraging nectar, pollen, water, propolis
@@ -104,7 +111,7 @@ Facts:
 
 * Nectar and water are collected in the honey stomach
 * Pollen and propolis are collected on the rear legs
-* Foragers can fly upto 3 kilometers 
+* Foragers can fly up to 3 kilometers 
 
 
 ==== Drone
@@ -169,7 +176,7 @@ On average, queen bees emerge from the egg in a total of 16 days, workers in 21 
 | 
 |
 | Summer: 49 (6 W) +
-Winter: upto 1 Y
+Winter: up to 1 Y
 
 
 | *Drone*
@@ -195,7 +202,7 @@ D = Days, M = Months, Y = Years, W = Weeks.
 
 Todo
 
-==== Feromones
+==== Pheromones
 
 Todo
 
@@ -205,11 +212,11 @@ Todo
 
 === Honey
 
-Honey is produced by bees who have collected nectar from vegitation or honeydew from other insects. Bees value honey for its sugars, which they consume to support general metabolic activity, especially that of their flight muscles during foraging, and as a food for their larvae. To this end bees stockpile honey to provide for themselves during ordinary foraging as well as during lean periods, as in overwintering.
+Honey is produced by bees who have collected nectar from vegetation or honeydew from other insects. Bees value honey for its sugars, which they consume to support general metabolic activity, especially that of their flight muscles during foraging, and as a food for their larvae. To this end bees stockpile honey to provide for themselves during ordinary foraging as well as during lean periods, as in overwintering.
 
 During foraging bees use part of the nectar they collect to power their flight muscles. The majority of nectar collected is not used to directly nourish the insects but is instead destined for regurgitation, enzymatic digestion, followed by long-term storage as honey in the nest.
 
-Nectar and honeydew consist out of suger, water and trace elements like minerals. The processed honey is required to have a water content percentage that is low enough to prevent the honey from spoiling. By bees regurgitating the nectar, the water in it evaporates and the honey becomes more sugar-concentrated. Once the honey reaches a water percentage below 20 percent, the cell containing the honey is capped with a lid. Capping the honey with a lid prevents the hydroscopic honey from absorbing humidity in the air.
+Nectar and honeydew consist out of sugar, water and trace elements like minerals. The processed honey is required to have a water content percentage that is low enough to prevent the honey from spoiling. By bees regurgitating the nectar, the water in it evaporates and the honey becomes more sugar-concentrated. Once the honey reaches a water percentage below 20 percent, the cell containing the honey is capped with a lid. Capping the honey with a lid prevents the hygroscopic honey from absorbing humidity in the air.
 
 === Pollen & bee bread
 
@@ -220,13 +227,63 @@ Nectar and honeydew consist out of suger, water and trace elements like minerals
 
 == Yearly schedule
 
-=== Summer 
+A honey bee colony season is not defined by daylight length or temperature. 
+Instead, it starts at the initiation of the pollen and nectar flow in the region. 
+This can be the end of winter, or something completely different like July to November in locations like California, USA.
 
-=== Autumn 
+Four stages can be differentiated:
 
-=== Winter
+1. Build up
+1. Reproduction 
+1. Food storage
+1. Dearth
 
-=== Spring
+.Seasonal colony development (source: Randy Oliver)
+[#img-brias] 
+image::images/colony-development.png[seasonal-colony-development, 900]
+{nbsp} +
+
+
+=== Buildup 
+During the buildup phase, there is an average net increase of 500-600 bees per day, even though about a 1000 bees die per day. 
+This growth results in one additional frame being covered with bees every 4-5 days. 
+
+==== Nutrition
+An hour after rainfall or snow starts, the workers start cutting back on the amount of jelly fed to the brood. 
+This is the result of no fresh nectar and pollen coming in, because the bees are not flying. 
+After a couple of days of continuous bad weather, a colony can cannibalize all their brood and their honey storage. 
+This creates a brood break and significantly decreases the honey crop and possibilities for splits of the colony, later in the season.
+
+Therefore, a minimum of 6 weeks before the main honey flow, the buildup momentum needs to be started and maintained.
+If during those 6 weeks the weather turns bad, pollen and a light sugar syrup can be fed to the bees to simulate a flow and keep momentum.
+However, care must be taken to prevent the casting of a swarm (reproduction) during build-up.
+
+Additional feeding in case of bad weather (per week): 
+
+* 2.5 liters of light sugar syrup 
+* 0.5 kilograms of pollen
+
+==== Thermal
+The rate of egg laying by the queen is restricted by the amount of comb 
+that the cluster can make available and warm (assuming sufficient nutrition). 
+Therefore cluster size is critical for the buildup phase, as a larger cluster can keep more comb warm and 
+have a queen laying eggs non-stop in empty, clean and warm cells. 
+Hence large clusters can grow faster than small ones. 
+
+During the buildup phase, there is not much that a beekeeper can do to facilitate a large cluster. 
+Instead, a good preparation in fall is required to enter the winter with a large cluster and little mortality, 
+to have a good size cluster at the buildup phase of the season. 
+
+==== Expanding
+The queen doesn’t reach maximum egg laying capacity until the cluster covers all 10 frames with bees. Once those are all covered, brood frames can be continuously harvested for nukes and replaced by drawn comb, and have the queen laying at maximum capacity.
+
+
+
+=== Reproduction
+
+=== Food Storage
+
+=== Dearth
 
 == Opening the hive 
 
@@ -256,7 +313,7 @@ The colony is queen right when:
 * It contains contiguous brood, without too many empty cells in between the brood
 
 
-.Healhty brood in all stadia with even age (BRIAS)
+.Healhty brood in all stadia with even age: BRIAS (source: Randy Oliver)
 [#img-brias] 
 image::images/brias.jpg[brias, 900]
 {nbsp} +
@@ -264,12 +321,12 @@ image::images/brias.jpg[brias, 900]
 Brood with uneven age can occur when there is not enough food available to feed the larvae, 
 or can be an indication of disease.
 
-.Brood with uneven age
+.Brood with uneven age (source: Randy Oliver)
 [#img-brood-uneven-age] 
 image::images/brood-uneven-age.png[Brood with uneven age, 900]
 {nbsp} +
 
-.Contiguous brood
+.Contiguous brood (source: Randy Oliver)
 [#img-brood-non-spotty] 
 image::images/brood-non-spotty.png[Contiguous brood, 900]
 {nbsp} +
@@ -282,12 +339,12 @@ Spotty brood can indicate:
 Spotty brood in late summer and fall can be expected if there is not enough foraging. 
 Spotty brood in spring or early summer is a serious problem as it can prevent the much required build-up of the colony. 
 
-.Spotty brood
+.Spotty brood (source: Randy Oliver)
 [#img-brood-spotty] 
 image::images/brood-spotty.png[Spotty brood, 900]
 {nbsp} +
 
-
+===== Act: not queen right
 
 
 ==== Check: enough food storage
@@ -295,11 +352,14 @@ image::images/brood-spotty.png[Spotty brood, 900]
 A healthy frame with brood contains a proper amount of food. 
 
 *Plenty of jelly* +
-The cells containing larvae should be filled with plenty of jelly inside it. This jelly is consumed by the larvae and required to stimulate a healthy growth.
+The cells containing larvae should be filled with plenty of jelly inside it. 
+This jelly is consumed by the larvae and required to stimulate a healthy growth.
+On day 5 (second day of larva stage), the nurse bees cover the bottom of the cells with jelly. 
+This is the easiest way to tell whether the colony is getting adequate nutrition. 
 
 If there is little or no jelly in the cells, this may indicate a food shortage. In that case, feeding with sugar water and / or pollen is beneficial. 
 
-.Plenty of jelly
+.Plenty of jelly (source: Randy Oliver)
 [#img-plenty-of-jelly] 
 image::images/brood-with-plenty-jelly.png[Plenty of jelly, 900]
 {nbsp} +
@@ -309,7 +369,7 @@ The cells in between the brood, and especially around the brood should be filled
 
 If there is only little or no pollen in the cells, this may indicate a food shortage. In that case, feeding additional pollen is beneficial. 
 
-.Plenty of pollen
+.Plenty of pollen (source: Randy Oliver)
 [#img-plenty-of-pollen] 
 image::images/brood-with-food-storage.png[Plenty of pollen, 900]
 {nbsp} +
@@ -319,29 +379,56 @@ The cells above the layers of pollen should be filled with honey and / or nectar
 
 If there is only little or no honey or nectar in the cells, this may indicate a food shortage. In that case, feeding sugar water is beneficial. 
 
-.Honey above the pollen
+.Honey above the pollen (source: Randy Oliver)
 [#img-honey-above-the-pollen] 
 image::images/brood-with-honey.png[Honey above pollen, 900]
 {nbsp} +
 
-.Plenty of honey
+.Plenty of honey (source: Randy Oliver)
 [#img-plenty-of-honey] 
 image::images/brood-with-plenty-honey.jpg[Plenty of honey, 900]
 {nbsp} +
 
+===== Act: not enough food
+
+
+
 ==== Check: enough space 
+
+Bees require enough empty cells for the queen to lay new eggs in, and for foragers to store nectar and pollen. 
+When the colony determines that there is not enough space, they will take preparations and cast a swarm to divide the colony.
+This subsequently leads to less bees and less honey production, and is therefore to be avoided or managed. 
+
+To prevent the colony from casting a swarm, it is paramount to ensure the colony has enough space to grow. 
+But not too much space, as this makes it too hard for them to heat it and control pests in it. 
+
+===== Act: not enough space
 
 ==== Check: enough bees
 
+===== Act: not enough bees
+
+
 ==== Check: diseases
 
-No pinces in the brood capping
+===== Act: diseases found
+
+See <<Diseases>>
+
+No holes in the brood capping
 
 No uncapped brood with pupae in the cell
 
 == Methods
 
-Todo
+=== Veger 
+
+=== Vlieger 
+
+=== Doppen aflegger
+
+=== Broed aflegger
+
 
 == Diseases
 
