@@ -8,6 +8,7 @@
 :toc: macro
 :toclevels: 6
 :toc-title: Table of contents
+:xrefstyle: short
 
 toc::[]
 
@@ -274,9 +275,31 @@ During the buildup phase, there is not much that a beekeeper can do to facilitat
 Instead, a good preparation in fall is required to enter the winter with a large cluster and little mortality, 
 to have a good size cluster at the buildup phase of the season. 
 
-==== Expanding
-The queen doesn’t reach maximum egg laying capacity until the cluster covers all 10 frames with bees. Once those are all covered, brood frames can be continuously harvested for nukes and replaced by drawn comb, and have the queen laying at maximum capacity.
+==== Expanding the brood nest
+The queen doesn’t reach maximum egg laying capacity until the cluster covers all 10 frames with bees. 
+Once all are covered, brood frames can be continuously harvested and replaced by drawn comb.
+This way, the queen can be held at maximum egg laying capacity, and splits be created at will.
 
+[#management-reversing-brood-boxes, ]
+
+
+Coming out of the winter, the entire cluster will have moved from the bottom to the top of the hive (see figure below, situation on the left). 
+The blue sphere indicates the bees and their brood, the orange arch their honey store. 
+Heat that the bees and the larvae produce only goes up; it does not go down. 
+The bottom box of the hive not being occupied by bees causes its temperature to be much lower, and hence the queen will not lay eggs in there. 
+This limits the space for the queen to lay eggs in to the blue sphere, and may prevent the queen from laying at maximum capacity due to space restriction. 
+
+By reversing the top and bottom boxes, the now empty top of the hive is warmed up by the occupied box below. 
+The queen however does not walk across honey bands, and therefore refuses to move to the top box. 
+Queen bees, being queens, do not like to get their feet dirty with food. 
+By swapping a frame in the middle of the brood nest of the bottom box with a drawn comb frame from the top box, the honey band is opened. 
+With this bridge across the honey created, the queen will now cross over with clean feet, and lay eggs in the top box (situation on the right). 
+She now has an additional box available to her, and brood production can increase. 
+
+.Reversing brood boxes (source: Randy Oliver)
+[#img-management-reversing-brood-boxes] 
+image::images/management-reversing-brood-boxes.png[img-management-reversing-brood-boxes, 900]
+{nbsp} +
 
 
 === Reproduction
