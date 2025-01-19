@@ -1,0 +1,298 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="26.0.3">
+  <diagram name="Page-1" id="qWE6s-IcHEfQxez9r86c">
+    <mxGraphModel dx="514" dy="1412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-42" value="Intermediate situation" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillStyle=auto;gradientColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="-10" width="320" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-41" value="Begin situation" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillStyle=auto;gradientColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="-10" width="220" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="IyKs0MpaTiuhfgl_7AT9-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="80" y="160" width="320" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="IyKs0MpaTiuhfgl_7AT9-3" value="honey" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rotation=-90;textDirection=ltr;direction=west;size=0.032747663551402684;" parent="1" vertex="1">
+          <mxGeometry x="30.16" y="249.86" width="174.7" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="IyKs0MpaTiuhfgl_7AT9-9" value="&lt;b&gt;(1)&lt;/b&gt;&lt;div&gt;Brood&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;horizontal=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="520" y="190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IyKs0MpaTiuhfgl_7AT9-10" value="" style="shape=mxgraph.signs.nature.venus;html=1;pointerEvents=1;fillColor=#3333FF;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" parent="1" vertex="1">
+          <mxGeometry x="570" y="230" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IyKs0MpaTiuhfgl_7AT9-11" value="&lt;b&gt;(2)&lt;/b&gt;&lt;div&gt;Brood&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="520" y="110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-1" value="&lt;b&gt;(4)&lt;/b&gt;&lt;div&gt;Brood&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="970" y="190" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-2" value="" style="shape=mxgraph.signs.nature.venus;html=1;pointerEvents=1;fillColor=#3333FF;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="230" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="200" as="sourcePoint" />
+            <mxPoint x="750" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-9" value="&lt;span style=&quot;&quot;&gt;Parent hive (1) (2) (3) stays in the same location, the queen is moved to a nuc in a new location.&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="802.5" y="310" width="277.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-13" value="&lt;b&gt;(4)&lt;/b&gt;&lt;div&gt;Brood&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="780" y="730" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-14" value="" style="shape=mxgraph.signs.nature.venus;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="810" y="770" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-17" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="735" as="sourcePoint" />
+            <mxPoint x="740" y="735" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-18" value="&lt;span style=&quot;&quot;&gt;Parent hive (1) (2) (3) moves to a new location.&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="900" y="835" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-20" value="&lt;b&gt;(3)&lt;/b&gt;&lt;div&gt;Honey Super&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="520" y="60" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-23" value="&lt;b&gt;(1)&lt;/b&gt;&lt;div&gt;Brood&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="810" y="190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-25" value="&lt;b&gt;(2)&lt;/b&gt;&lt;div&gt;Brood&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="810" y="110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-26" value="&lt;b&gt;(3)&lt;/b&gt;&lt;div&gt;Honey Super&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="810" y="60" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-27" value="&lt;b&gt;(1)&lt;/b&gt;&lt;div&gt;Brood&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="520" y="730" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-28" value="" style="shape=mxgraph.signs.nature.venus;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="770" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-29" value="&lt;b&gt;(2)&lt;/b&gt;&lt;div&gt;Brood&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="520" y="650" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-30" value="&lt;b&gt;(3)&lt;/b&gt;&lt;div&gt;Honey Super&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="520" y="600" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-31" value="&lt;b&gt;(1)&lt;/b&gt;&lt;div&gt;Brood&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="900" y="730" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-33" value="&lt;b&gt;(2)&lt;/b&gt;&lt;div&gt;Brood&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="900" y="650" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-34" value="&lt;b&gt;(3)&lt;/b&gt;&lt;div&gt;Honey Super&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="900" y="600" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-43" value="End situation" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillStyle=auto;gradientColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="-10" width="320" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-44" value="&lt;b&gt;(4)&lt;/b&gt;&lt;div&gt;Brood&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="190" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-45" value="" style="shape=mxgraph.signs.nature.venus;html=1;pointerEvents=1;fillColor=#3333FF;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="230" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-46" value="&lt;span style=&quot;&quot;&gt;A new queen is reared in the parent hive.&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1255" y="310" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-47" value="&lt;b&gt;(1)&lt;/b&gt;&lt;div&gt;Brood&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-48" value="&lt;b&gt;(2)&lt;/b&gt;&lt;div&gt;Brood&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-49" value="&lt;b&gt;(3)&lt;/b&gt;&lt;div&gt;Honey Super&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="60" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-50" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1110" y="200" as="sourcePoint" />
+            <mxPoint x="1150" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-51" value="" style="shape=mxgraph.signs.nature.venus;html=1;pointerEvents=1;fillColor=#009900;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="229.38" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-57" value="foundation comb" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rotation=-90;textDirection=ltr;direction=west;size=0.032747663551402684;" vertex="1" parent="1">
+          <mxGeometry x="79.84" y="249.54" width="174.06" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-58" value="brood : BRIAS" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rotation=-90;textDirection=ltr;direction=west;size=0.032747663551402684;" vertex="1" parent="1">
+          <mxGeometry x="130" y="249.53999999999996" width="174.06" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-59" value="brood : BRIAS" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rotation=-90;textDirection=ltr;direction=west;size=0.032747663551402684;" vertex="1" parent="1">
+          <mxGeometry x="180" y="249.53999999999996" width="174.06" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-60" value="drawn out comb" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rotation=-90;textDirection=ltr;direction=west;size=0.032747663551402684;" vertex="1" parent="1">
+          <mxGeometry x="230" y="249.85999999999996" width="174.06" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-61" value="pollen" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rotation=-90;textDirection=ltr;direction=west;size=0.032747663551402684;" vertex="1" parent="1">
+          <mxGeometry x="280" y="249.53999999999996" width="174.06" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-53" value="" style="shape=mxgraph.signs.nature.venus;html=1;pointerEvents=1;fillColor=#3333FF;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;gradientColor=none;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="257.03" y="313" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-62" value="Intermediate situation" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillStyle=auto;gradientColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="1010" width="320" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-63" value="Begin situation" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillStyle=auto;gradientColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1010" width="220" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-64" value="&lt;b&gt;(1)&lt;/b&gt;&lt;div&gt;Brood&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-65" value="" style="shape=mxgraph.signs.nature.venus;html=1;pointerEvents=1;fillColor=#3333FF;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="1250" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-66" value="&lt;b&gt;(2)&lt;/b&gt;&lt;div&gt;Brood&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-67" value="&lt;b&gt;(4)&lt;/b&gt;&lt;div&gt;Brood&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="1210" width="50" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-69" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="1220" as="sourcePoint" />
+            <mxPoint x="800" y="1220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-70" value="&lt;span style=&quot;&quot;&gt;Parent hive (1) (2) (3) stays in the same location, the queen cells are moved to a small nuc in a new location.&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="852.5" y="1330" width="277.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-71" value="&lt;b&gt;(3)&lt;/b&gt;&lt;div&gt;Honey Super&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1080" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-72" value="&lt;b&gt;(1)&lt;/b&gt;&lt;div&gt;Brood&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="860" y="1210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-73" value="&lt;b&gt;(2)&lt;/b&gt;&lt;div&gt;Brood&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="860" y="1130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-74" value="&lt;b&gt;(3)&lt;/b&gt;&lt;div&gt;Honey Super&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="860" y="1080" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-68" value="" style="shape=mxgraph.signs.nature.venus;html=1;pointerEvents=1;fillColor=#3333FF;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="910" y="1250" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-80" value="" style="shape=mxgraph.signs.nature.sun_1;html=1;pointerEvents=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1024" y="1245" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-81" value="" style="shape=mxgraph.signs.nature.sun_1;html=1;pointerEvents=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="1046" y="1245" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-82" value="" style="shape=mxgraph.signs.nature.sun_1;html=1;pointerEvents=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="1024" y="1267" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-83" value="" style="shape=mxgraph.signs.nature.sun_1;html=1;pointerEvents=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="1046" y="1267" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-84" value="" style="shape=mxgraph.signs.nature.sun_1;html=1;pointerEvents=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="1244" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-85" value="" style="shape=mxgraph.signs.nature.sun_1;html=1;pointerEvents=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1244" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-86" value="" style="shape=mxgraph.signs.nature.sun_1;html=1;pointerEvents=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="650" y="1266" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-87" value="" style="shape=mxgraph.signs.nature.sun_1;html=1;pointerEvents=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1266" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-88" value="End situation" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillStyle=auto;gradientColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="1010" width="320" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-89" value="&lt;b&gt;(4)&lt;/b&gt;&lt;div&gt;Brood&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="1210" width="50" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-90" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1160" y="1220" as="sourcePoint" />
+            <mxPoint x="1200" y="1220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-91" value="&lt;span style=&quot;&quot;&gt;The queens hatched from their cell,&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;and only one survives.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1252.5" y="1330" width="277.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-92" value="&lt;b&gt;(1)&lt;/b&gt;&lt;div&gt;Brood&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="1210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-93" value="&lt;b&gt;(2)&lt;/b&gt;&lt;div&gt;Brood&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="1130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-94" value="&lt;b&gt;(3)&lt;/b&gt;&lt;div&gt;Honey Super&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="1080" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-95" value="" style="shape=mxgraph.signs.nature.venus;html=1;pointerEvents=1;fillColor=#3333FF;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="1250" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-100" value="" style="shape=mxgraph.signs.nature.venus;html=1;pointerEvents=1;fillColor=#009900;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="1435" y="1250" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-102" value="&lt;div style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; direction: ltr;&quot; class=&quot;paragraph data-line-571&quot;&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 1.25rem; padding: 0px; direction: ltr; text-rendering: optimizelegibility; letter-spacing: -0.01em;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;There is a queen right hive with plenty of brood and food.&lt;/font&gt;&lt;/p&gt;&lt;div style=&quot;font-size: 14px; font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, HelveticaNeue-Light, Ubuntu, &amp;quot;Droid Sans&amp;quot;, sans-serif;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; direction: ltr; font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, HelveticaNeue-Light, Ubuntu, &amp;quot;Droid Sans&amp;quot;, sans-serif; font-size: 14px; text-align: start;&quot; class=&quot;paragraph data-line-574&quot;&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460.63" y="330" width="238.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-103" value="&lt;div style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; direction: ltr;&quot; class=&quot;paragraph data-line-571&quot;&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 1.25rem; padding: 0px; direction: ltr; text-rendering: optimizelegibility; letter-spacing: -0.01em;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;There is a queen right hive with plenty of brood and food, and queen cells (in green)&lt;/font&gt;&lt;/p&gt;&lt;div style=&quot;font-size: 14px; font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, HelveticaNeue-Light, Ubuntu, &amp;quot;Droid Sans&amp;quot;, sans-serif;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; direction: ltr; font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, HelveticaNeue-Light, Ubuntu, &amp;quot;Droid Sans&amp;quot;, sans-serif; font-size: 14px; text-align: start;&quot; class=&quot;paragraph data-line-574&quot;&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510.62" y="1350" width="238.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-105" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="129.68" y="1054" width="180.32" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-106" value="honey" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rotation=-90;textDirection=ltr;direction=west;size=0.032747663551402684;" vertex="1" parent="1">
+          <mxGeometry x="79.84" y="1143.8600000000001" width="174.7" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-108" value="brood : BRIAS" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rotation=-90;textDirection=ltr;direction=west;size=0.032747663551402684;" vertex="1" parent="1">
+          <mxGeometry x="129.68" y="1143.86" width="174.06" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-113" value="pollen" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rotation=-90;textDirection=ltr;direction=west;size=0.032747663551402684;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1143.8600000000001" width="174.7" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-114" value="" style="shape=mxgraph.signs.nature.sun_1;html=1;pointerEvents=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="202" y="1220" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-115" value="" style="shape=mxgraph.signs.nature.sun_1;html=1;pointerEvents=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="202" y="1082" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-116" value="" style="shape=mxgraph.signs.nature.sun_1;html=1;pointerEvents=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="212" y="1097" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-117" value="" style="shape=mxgraph.signs.nature.sun_1;html=1;pointerEvents=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="212" y="1205" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-118" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="80" y="420" width="320" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-119" value="honey" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rotation=-90;textDirection=ltr;direction=west;size=0.032747663551402684;" vertex="1" parent="1">
+          <mxGeometry x="30.159999999999997" y="509.86" width="174.7" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-120" value="foundation comb" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rotation=-90;textDirection=ltr;direction=west;size=0.032747663551402684;" vertex="1" parent="1">
+          <mxGeometry x="79.84" y="509.53999999999996" width="174.06" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-121" value="brood : BRIAS" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rotation=-90;textDirection=ltr;direction=west;size=0.032747663551402684;" vertex="1" parent="1">
+          <mxGeometry x="130" y="509.53999999999996" width="174.06" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-122" value="brood : BRIAS" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rotation=-90;textDirection=ltr;direction=west;size=0.032747663551402684;" vertex="1" parent="1">
+          <mxGeometry x="180" y="509.53999999999996" width="174.06" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-123" value="brood: BRIAS" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rotation=-90;textDirection=ltr;direction=west;size=0.032747663551402684;" vertex="1" parent="1">
+          <mxGeometry x="230" y="509.85999999999996" width="174.06" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-124" value="drawn out comb" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rotation=-90;textDirection=ltr;direction=west;size=0.032747663551402684;" vertex="1" parent="1">
+          <mxGeometry x="280" y="509.53999999999996" width="174.06" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-126" value="&lt;span style=&quot;&quot;&gt;Cursus&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="110.00000000000003" width="277.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-127" value="&lt;span style=&quot;&quot;&gt;Randy Oliver: add queen cell after 24 hours&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="390" width="277.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux2qAAe1gOKTnrGUfpTu-129" value="" style="shape=mxgraph.signs.nature.sun_1;html=1;pointerEvents=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="258" y="583" width="20" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

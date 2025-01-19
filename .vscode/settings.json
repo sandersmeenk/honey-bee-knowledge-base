@@ -5,5 +5,11 @@
   "asciidoc.preview.asciidoctorAttributes": {
     "PlantUMLServer": "http://plantuml.com/plantuml",
     "plantuml-server-url": "http://plantuml.com/plantuml"
-  }
+  },
+  "cSpell.words": [
+    "Langstroth",
+    "ocimene",
+    "queenless",
+    "Varroa"
+  ]
 }
