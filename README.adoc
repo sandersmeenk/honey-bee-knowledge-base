@@ -8,9 +8,14 @@
 :toc: macro
 :toclevels: 6
 :toc-title: Table of contents
-:xrefstyle: short
+:xrefstyle: full
+:pdf-page-size: A4
+:doctype: book
+:page-layout: landscape
 
 toc::[]
+
+[page-layout=landscape]
 
 == Intro
 
@@ -569,23 +574,13 @@ Also referred to as queen cell splits +
 * Pro: The queen should arrive mature, mated, and ready to lay eggs within 3 days after release; much less risky. 
 * Pro: The queen should be raised from colonies with strong genes 
 
-=== Queens for pennies
+=== Split preparation: Queens for pennies
 
 TODO
 https://scientificbeekeeping.com/queens-for-pennies/
 
-=== Treating for mites
 
-TODO
-
-When inserting a queen cell: dribble with oxalic acid 18 days after the split, before the new brood is capped. 
-
-=== Adding bees to a nuc 
-
-Shake bees off of a frame in front of the hive. The older foragers will fly home, and not attempt to kill the queen. 
-The nurse bees will walk in and start working without hurting the queen.  
-
-=== Finding the queen
+=== Split preparation: Finding the queen
 
 TODO: tune and move 
 
@@ -599,15 +594,14 @@ TODO: tune and move
 6. The frames in the new box are now populated with bees 
 7. Remove the new box and place it on its own bottom board 
 
-=== Split: 5 Frame queen nuc sweeper (walk away split)
+=== Adding bees to a colony without splitting 
 
-(Koninginnen aflegger, veger) 
+Shake bees off of a frame in front of the hive. The older foragers will fly home, and not attempt to kill the queen. 
+The nurse bees will walk in and start working without hurting the queen.  
 
-*Goals:* 
+<<<
 
-* Preventing swarming
-* Creating new colony
-* Creating new queen
+=== Split: 5 frame walk away split - with queen (sweeper)
 
 The queen is placed in a new hive (sweeper) with young bees that is placed a few meters away from the parent hive. +
 The parent hive stays in the same location. +
@@ -615,7 +609,11 @@ The parent hive stays in the same location. +
 The forager bees of the new hive fly off back to the parent hive. 
 The sweeper therefore consists only of young bees and cannot immediately be used for collecting honey and pollination. 
 
-Con: ± 26 days until laying eggs in the parent hive
+*Goals:* 
+
+* Preventing swarming
+* Creating new colony
+* Creating new queen
 
 *Checks:*
 
@@ -635,16 +633,16 @@ Depending on the climate, less or no drones may be available in early spring and
 image::images/veger-cursus.png[Veger cursus, 900]
 {nbsp} +
 
-[cols="1, 6"]
+[cols="1, 15"]
 .Timetable summary for creating sweeper
 |===
 | *Day* | *Action*  
 | 1     | 1. Setup an empty six frame deep hive ('new hive' hereafter) +
-2. Move queen and brood frames from the parent's hive to the new hive, add foundation and drawn comb +
-3. Shake 4-8 frames of bees from the parent's hive into the new hive +
+2. Move queen and brood frames from the parent hive to the new hive, add foundation and drawn comb +
+3. Shake 4 - 8 frames of bees from the parent hive into the new hive +
 4. Reduce entrance +
 
-| 1 | *2 hours later (after foragers flew off):* +
+| 1 | *Two - four hours later (after foragers flew off):* +
 5. Add 2 frames with food resources: honey and pollen +
 6. Feed with sugar syrup +
 7. Perform varroa treatment
@@ -660,18 +658,16 @@ image::images/veger-cursus.png[Veger cursus, 900]
 [#img-veger-hive] 
 image::images/veger-cursus-new-hive.png[Veger hive, 300, role=right]
 
-
-
-1. Setup an empty six frame deep hive ('new hive' hereafter). +
+. Setup an empty six frame deep hive ('new hive' hereafter). +
 +
 The new hive should be placed at least a few meters away from the parent hive. 
 
-2. Create the following situation in the new hive:
+. Create the following situation in the new hive:
 ** Move two frames with brias including the queen from the parent hive to the new hive.
 ** Add a frame of foundation comb so that the young bees can build.
 ** Add a frame of drawn out comb so that the queen can continue laying eggs.
 
-3. Shake more than half of the bees (e.g. 4-8 frames) off of the parent hive's frames into the new hive. +
+. Shake more than half of the bees (e.g. 4-8 frames) off of the parent hive's frames into the new hive. +
 +
 Such a large loss of bees to the parent hive simulates a natural swarm. 
 The shook bees will consist of both nurse bees and forager bees. 
@@ -679,13 +675,13 @@ The forager bees that are shook into the new hive will eventually fly back to th
 because that still resides at their home location. The foragers are therefore only temporary 
 residents of the new hive. 
 
-4. Reduce the new hive's entrance to make it easier for the new colony to defend their hive. 
+. Reduce the new hive's entrance to make it easier for the new colony to defend their hive. 
 
-5. Add a frame of honey and a frame of pollen. +
-Make sure these frames don't have bees walking on them as they might be foragers. +
-Add these frames _after_ its foragers flew back to their parent hive, to prevent robbing. 
+. Add a frame of honey and a frame of pollen. +
+Shake off all bees back into the parent hive before inserting it in the new hive, in case those bees are foragers. +
+Add these frames _after_ the foragers in the new hive flew back to their parent hive, to prevent robbing. 
 
-6. Feed the new hive with <<Sugar syrup 1:1>> (or sugar fondant) to encourage them to draw wax. +
+. Feed the new hive with <<Sugar syrup 1:1>> (or sugar fondant). +
 +
 This will stimulate the bees to build out the foundation comb, and the queen to lay eggs as if 
 there is an incoming nectar flow.  
@@ -694,11 +690,11 @@ It is important to feed the new hive _after_ its foragers flew back to their par
 If feeding starts too soon, the foragers returning to their parent hive may recruit bees to the new hive. 
 This will cause robbery of the new hive's food stores by the parent hive. +
 
-7. Perform a varroa treatment with oxalic acid. +
+. Perform a varroa treatment with oxalic acid. +
 +
 After a varroa treatment with oxalic acid, the honey cannot be used for human consumption. +
-+
-8. Give the bees around a week to settle in, then do an inspection. +
+
+. Give the bees around a week to settle in, then do an inspection. +
 +
 During the inspection, it is important to determine the presence of eggs and whether the bees have enough room. 
 When the bees are working on about 4 frames (assuming 6 frame equipment), it is time to give them more space. 
@@ -708,16 +704,16 @@ Then, either:
 * a honey super can be added on top. 
 
 
-*Steps for parent hive - emergency cell variant*
+*Steps for parent hive*
 
-[cols="1, 6"]
-.Timetable summary for parent hive - emergency cell variant
+[cols="1, 15"]
+.Timetable summary for parent hive
 |===
 | *Day* | *Action*  
 | 1     | 1. Ensure the parent hive has eggs and young larvae that the bees can promote to become queens +
 | 2     | 2. The worker bees will attempt to rear a new queen.
 | 11    | *In the evening:* +
-3. Either open all queen cells or create a three frame queen nuc with surplus queen cells
+3. Either open all queen cells or create a three frame queen cell nuc with surplus queen cells
 | 12    | 4. Perform varroa treatment +
 TODO: should this be done _after_ the queen started laying in order not to stress her?
 
@@ -725,7 +721,7 @@ TODO: should this be done _after_ the queen started laying in order not to stres
 
 1. Ensure the parent hive has eggs (1..3 days old) and larvae (1 day old). +
 The bees require this to promote several of those to become queens. +
-If there are no eggs and/or young larvae, add some from a different hive.
+If there are no eggs and/or young larvae, swap in a frame from a different hive that does. 
 
 2. From 4 to 12 hours after the queen disappeared, the worker bees will attempt rearing a new queen. +
 +
@@ -734,10 +730,10 @@ larvae that are 1..3 days old (after a 3 day egg phase, so 4..6 days in total).
 
 3. 10 days after making the split, one of the following actions should be taken in the evening to prevent swarming:
 
-** Carefully open up all queen cells and force all queens to crawl out. +
-Because it is nighttime, the queens won't leave in a swarm, and instead fight each other during the night until only one remains alive. 
+** Carefully open up all queen cells and force all queens to emerge. +
+Because it is evening, the queens won't leave in a swarm, and instead fight each other during the night until only one remains alive. 
 
-** Create another three frame queen nuc (see <<Split: 3 Frame queen cell nuc (Doppen aflegger)>>) +
+** Create another three frame queen nuc (see <<Split: 3 frame swarm control split - with queen cells>>) +
 In some cases, there is enough food and bees remaining in the parent hive for another split.
 In that case, instead of opening up _all_ queen cells, some queen cells can be moved to a small queen cell nuc. 
 Two or three queen cells should be left behind in the parent hive, and be in each other's vicinity
@@ -747,16 +743,15 @@ so that the queens can find each other easily.
 +
 After a varroa treatment with oxalic acid, the honey cannot be used for human consumption. 
 
-*Steps for parent hive - swarm control split variant*
+<<<
 
-TODO: Queen cell variant
-https://www.honeybeesuite.com/how-to-make-a-swarm-control-split/
+=== Split: 5 frame walk away split - with queen cell (sweeper) 
 
-1. ...
-
-=== Split: 5 Frame queen nuc flyer (cut down split)
-
-(Koninginnen aflegger, vlieger) 
+This split is very similar to <<Split: 5 frame walk away split - with queen (sweeper)>>.
+It is different in that not the queen is moved to the new hive, but one or more queen cells from the parent hive. 
+This has the advantage over a split with a queen that the new queen could be laying within 10-12 days
+instead of ±27 days. That is a smaller brood break, which results in a more populous colony once the
+main nectar flow starts.
 
 *Goals:* 
 
@@ -764,10 +759,129 @@ https://www.honeybeesuite.com/how-to-make-a-swarm-control-split/
 * Creating new colony
 * Creating new queen
 
+*Checks:*
+
+1. Check that nighttime temperatures are not too cold for a split. +
++
+There is a relatively small number of adult bees and a large number of brood cells. 
+Nighttime temperatures must be fairly moderate to avoid chilled brood.
+
+2. Ensure there are plenty of drones around. +
++
+The virgin queen will need drones with which to mate. 
+Don’t try raising queens in any type of split until drones are plentiful.
+Depending on the climate, less or no drones may be available in early spring and late summer. 
+
+3. Ensure the queen cells in the hive are swarm cells, not supersedure cells. +
++
+A colony raises supersedure cells when a queen dies, becomes ill, damaged, or loses strength. 
+The colony cannot survive without a healthy egg-laying queen. 
+Therefore if a colony raises supersedure cells,
+it is probably best to leave them alone, and not use them to make a split.  
+See <<Different types of queen cells>> on how to distinguish different types of queen cells. 
+
+.Veger - queen cell (front view)
+[#img-veger-queen-cell] 
+image::images/veger-queen-cell.png[Veger queen cell, 900]
+{nbsp} +
+
+[cols="1, 15"]
+.Timetable summary for creating sweeper
+|===
+| *Day* | *Action*  
+| 1     | 1. Setup an empty six frame deep hive ('new hive' hereafter) +
+2. Move 2 brood frames without queen cells from the parent hive to the new hive, add foundation and drawn comb +
+3. Keep a frame slot free on the edge of the hive +
+4. Shake 4-8 frames of bees from the parent hive into the new hive +
+5. Reduce entrance +
+
+| 1 | *Two - four hours later (after foragers flew off):* +
+6. Add 2 frames with food resources: honey and pollen +
+7. Feed with sugar syrup +
+8. Wait for 24 hours for the workers to realize they are queenless
+
+| 2 | 9. Move the frames aside and insert a frame with one or more queen cells in the middle of the brood nest.
+
+| 19 | 10. Perform varroa treatment
+
+
+|===
+
+
+*Steps for creating sweeper*
+
+.Veger - new hive (front view)
+[#img-veger-hive-queen-cell] 
+image::images/veger-queen-cell-new-hive.png[Veger hive queen cell, 300, role=right]
+
+. Setup an empty six frame deep hive ('new hive' hereafter). +
++
+The new hive should be placed at least a few meters away from the parent hive. 
+
+. Create the following situation in the new hive:
+** Move 2 brood frames without queen cells from the parent hive to the new hive
+** Add a frame of foundation comb so that the young bees can build.
+** Add a frame of drawn out comb so that the queen can continue laying eggs.
+
+. Keep a frame slot free on the edge of the hive +
++
+Make sure all frames are adjacent and bees can cross between all frames in the hive, and keep the slot on one
+side of the hive empty. The room will be used later on, to insert a frame with a queen cell.
+
+. Shake more than half of the bees (e.g. 4-8 frames) off of the parent hive's frames into the new hive. +
++
+Such a large loss of bees to the parent hive simulates a natural swarm. 
+The shook bees will consist of both nurse bees and forager bees. 
+The forager bees that are shook into the new hive will eventually fly back to their parent hive,
+because that still resides at their home location. The foragers are therefore only temporary 
+residents of the new hive. 
+
+. Reduce the new hive's entrance to make it easier for the new colony to defend their hive. 
+
+. Add a frame of honey and a frame of pollen. +
+Shake off all bees back into the parent hive before inserting it in the new hive, in case those bees are foragers. +
+Add these frames _after_ the foragers in the new hive flew back to their parent hive, to prevent robbing. 
+
+. Feed the new hive with <<Sugar syrup 1:1>> (or sugar fondant). +
++
+This will stimulate the bees to build out the foundation comb, and the queen to lay eggs as if 
+there is an incoming nectar flow.  
++
+It is important to feed the new hive _after_ its foragers flew back to their parent hive. 
+If feeding starts too soon, the foragers returning to their parent hive may recruit bees to the new hive. 
+This will cause robbery of the new hive's food stores by the parent hive. +
+
+. Wait for 24 hours for the workers to realize they are queenless. +
++
+After moving the bees to a new hive without a queen, the bees are initially still under the impression that they have a queen.
+It takes around 2-12 hours before the colony realizes that they are now queenless. 
+Before that, the colony will not accept a new queen being introduced into the colony and will kill the new 'intruder' queen.
+By waiting for the bees to realize they are queenless, the colony is more likely to accept the new queen emerging from the inserted queen cell. 
+
+. Move the frames aside and insert a frame with one or more queen cells in the middle of the brood nest.
+
+. Perform a varroa treatment with oxalic acid. +
++
+By treating the colony 18 days after the split, the treatment is performed before the new brood is capped. +
+After a varroa treatment with oxalic acid, the honey cannot be used for human consumption. +
+
+*Steps for parent hive*
+
+There are no further steps to be taken for the parent hive: it has a queen, brood and food resources.
+
+
+<<<
+
+=== Split: 5 frame cut down split - with queen (flyer)
+
 A cut-down split is a special technique often used by comb honey producers. 
 The purpose of a cut-down split is to maximize the number of foragers that are bringing in nectar by minimizing the amount of brood a colony has to care for.
 With little brood to feed, foragers concentrate on bringing home nectar rather than pollen, and nurse bees without brood responsibility soon become foragers as well. 
 The result is lots of honey in a short period of time.
+
+Timing of a cut-down split it important. 
+To be effective, the cut-down should be completed just before the start of a main nectar flow. 
+No matter how well the split is organized, it won’t produce honey if there is no nectar to collect.
 
 The queen is placed in a new hive (flyer) with forager bees that is placed at the location of the parent hive.
 The parent hive is moved at least a few meters away from the original home location. +
@@ -775,32 +889,79 @@ The parent hive is moved at least a few meters away from the original home locat
 The forager bees of the parent hive fly off back to the new hive, their home location. 
 The flyer therefore can immediately be used for collecting honey and pollination. 
 
-Con: ± 26 days until laying eggs
+*Goals:* 
 
-TODO (https://www.honeybeesuite.com/how-to-make-a-cut-down-split-2/) :
+* Preventing swarming
+* Creating new colony
+* Creating new queen
+* Harvesting lots of honey
 
-* Place the queen and nearly all the open brood, honey, and pollen in a new hive. Make sure these frames are covered with nurse bees to care for the open brood.
-* Leave the capped brood, one frame of eggs, and a small amount of honey and pollen in the old hive. At the same time reduce the number of brood boxes in this old hive by one and add empty honey supers. (So if there were three brood boxes, cut back to two. If there were two brood boxes, cut back to one. Add supers after cutting back the brood boxes.)
-* Place the new hive in a different location so all of the foragers return to the old hive.
+*Checks:*
+
+1. Check that nighttime temperatures are not too cold for a split. +
++
+There is a relatively small number of adult bees and a large number of brood cells. 
+Nighttime temperatures must be fairly moderate to avoid chilled brood.
+
+2. Ensure there are plenty of drones around. +
++
+The virgin queen will need drones with which to mate. 
+Don’t try raising queens in any type of split until drones are plentiful.
+Depending on the climate, less or no drones may be available in early spring and late summer.
+
+.Flyer - cursus (front view)
+[#img-flyer-course] 
+image::images/vlieger-cursus.png[Flyer cursus, 900]
+{nbsp} +
 
 
-=== Split: 5 Frame queen cell sweeper (Koninginnen aflegger) 
+[cols="1, 15"]
+.Timetable summary for creating flyer
+|===
+| *Day* | *Action*  
+| 1     | 1. Move the parent hive to a new location +
+2. Setup an empty ten frame deep hive at the parent location ('new hive' hereafter) +
+3. Move queen and capped brood frames from the parent hive to the new hive +
+4. Fill the new hive with drawn comb +
+5. Add a queen excluder op top of the new hive +
+6. Add a honey super on top of the new hive
 
-TODO
+|===
 
-Pro: 11-12 days until laying eggs +
-Pro: less risk as there is no need to wait for bees to rear emergency cells
+*Steps for creating flyer*
 
-TODO 
-Same as <<Split: 5 Frame queen nuc sweeper (walk away split)>>, differences:
+.Flyer - new hive with queen excluder (front view)
+[#img-flyer-hive-queen] 
+image::images/vlieger-cursus-new-hive.png[Flyer hive queen, 500, role=right]
 
-* 3 brood, 1 drawn comb, 1 honey
-* Do not insert a queen, instead leave the new hive queenless for 24 hours
-* Then insert a frame with a queen cell 
+. Move the parent hive to a new location +
++
+The old hive should be placed at least a few meters away from its original parent hive.
 
-See https://www.youtube.com/watch?v=6N_1exUJnCc @ 43:00
+. Setup an empty ten frame deep hive at the original parent location ('new hive' hereafter)
 
-=== Split: 3 Frame queen cell nuc - Swarm control split
+. Move two frames with capped brood including the queen from the parent hive to the bottom of the new hive.
+
+. Fill the new hive with drawn comb
+
+. Add a queen excluder op top of the new hive. +
++
+This prevents the queen from laying eggs in the honey super on top, as she cannot pass through the excluder 
+and is confined to the bottom box. 
+It also prevents the bees from storing pollen in the honey super, making sure that honey stays pure. 
+
+. Add a honey super on top of the new hive.+
++ 
+With no open brood to take care of, nurse bees will shift their task to foraging sooner. 
+That, combined with the already abundant amount of foragers flying back from the parent hive, the split is ready to collect lots of honey. 
+
+*Steps for parent hive:*
+
+See the same steps in <<Split: 5 frame walk away split - with queen (sweeper)>> for the parent hive. 
+
+<<<
+
+=== Split: 3 frame swarm control split - with queen cells
 
 (Doppen aflegger)
 
@@ -823,18 +984,31 @@ The virgin queen will need drones with which to mate.
 Don’t try raising queens in any type of split until drones are plentiful.
 Depending on the climate, less or no drones may be available in early spring and late summer. 
 
+3. Ensure the queen cells are swarm cells, not supersedure cells. +
++ 
+A colony raises supersedure cells when a queen dies, becomes ill, damaged, or loses strength. 
+The colony cannot survive without a healthy egg-laying queen. 
+Therefore if a colony raises supersedure cells,
+it is probably best to leave them alone, and not use them to make a split.  
+See <<Different types of queen cells>> on how to distinguish different types of queen cells. 
+
 .Doppen aflegger - new hive (front view)
 [#img-doppenaflegger-cursus] 
 image::images/doppenaflegger-cursus.png[Doppen aflegger cursus, 900]
 
 .Doppen aflegger - new hive (front view)
 [#img-doppenaflegger-hive] 
-image::images/doppenaflegger-new-hive.png[Doppen aflegger hive, 175, role=right]
+image::images/doppenaflegger-new-hive.png[Doppen aflegger hive, 450, role=right]
 
 1. Setup an empty three frame deep hive ('new hive' hereafter)
 2. Create the following situation in the new hive:
 ** Move one frame with brias including the queen cells from the parent hive to the new hive
-** Keep room for 2 additional frames 
+** Keep room for 2 additional frames
++
+OR: 
+** Move multiple frames with brias including the queen cells from the parent hive to the new hive
+
+
 3. Shake the bees of 1-2 frames off of the parent hive's frames into the new hive. +
 +
 The shook bees will consist of both nurse bees and forager bees. 
@@ -844,7 +1018,7 @@ residents of the new hive.
 4. Reduce the new hive's entrance to make it easier for the new colony to defend their hive. 
 
 5. Add a frame of honey and a frame of pollen. +
-Make sure these frames don't have bees walking on them as they might be foragers. +
+Shake off all bees back into the parent hive before inserting it in the new hive, in case those bees are foragers. +
 Add these frames _after_ its foragers flew back to their parent hive, to prevent robbing. 
 
 6. Feed the new hive with <<Sugar syrup 1:1>> (or sugar fondant) to encourage them to draw wax. +
@@ -854,11 +1028,11 @@ If feeding starts too soon, the foragers returning to their parent hive may recr
 This will cause robbery of the new hive's food stores by the parent hive. +
 + 
 A colony this small will not swarm because the cues to swarm are absent. 
-Instead, the queens will emerge from their queen cells, and fight eachother until the strongest remains. 
+Instead, the queens will emerge from their queen cells, and fight each other until the strongest remains. 
 
 7. Give the bees around two weeks after the queen cell is due to emerge, then do an inspection. +
 +
-During the inspection, it is important to determine the presence of eggs to know whether the queen succesfully mated.
+During the inspection, it is important to determine the presence of eggs to know whether the queen successfully mated.
 
 8. Perform a varroa treatment with oxalic acid 18 days after the queen cell is due to emerge. +
 +
@@ -870,11 +1044,16 @@ After a varroa treatment with oxalic acid, the honey cannot be used for human co
 10. Perform an inspection every week and check and whether the bees have enough room. 
 When the bees are working on all 3 frames, it is time to give them more space by moving them to a 6 frame box with foundation comb added. 
 
+<<<
 
-=== Broed aflegger
 
+== Different types of queen cells
+
+TODO
 
 == Diseases
+
+TODO
 
 === Varroa 
 
