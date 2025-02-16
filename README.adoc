@@ -25,6 +25,11 @@ This book is a collection of knowledge gathered while learning and practising ho
 
 Todo
 
+== References
+
+https://www.honeybeesuite.com
+
+
 == Honey bees 
 
 The honey bee colony has two main objectives:
@@ -243,14 +248,14 @@ Instead, it starts at the initiation of the pollen and nectar flow in the region
 This can be the end of winter, or something completely different like July to November in locations like California, USA.
 
 Four stages can be differentiated:
-
-1. Build up
-1. Reproduction 
-1. Food storage
-1. Dearth
+ 
+. Build up
+. Reproduction 
+. Food storage
+. Dearth
 
 .Seasonal colony development (source: Randy Oliver)
-[#img-brias] 
+[#img-colony-development] 
 image::images/colony-development.png[seasonal-colony-development, 900]
 {nbsp} +
 
@@ -418,11 +423,11 @@ image::images/swarming-splits.png[img-swarming-plan-to-prevent, 900]
 
 Goals of the inspection of the colony are:
 
-1. Checking if the colony is queen-right
-1. Checking if the colony has enough food storage
-1. Checking if there is enough space for new food and new eggs
-1. Checking if there are enough bees to care for and warm the brood
-1. Checking if there are diseases in the colony
+. Checking if the colony is queen-right
+. Checking if the colony has enough food storage
+. Checking if there is enough space for new food and new eggs
+. Checking if there are enough bees to care for and warm the brood
+. Checking if there are diseases in the colony
 
 ==== Check: queen right
 
@@ -628,13 +633,18 @@ The virgin queen will need drones with which to mate.
 Don’t try raising queens in any type of split until drones are plentiful.
 Depending on the climate, less or no drones may be available in early spring and late summer.
 
+*Overview:*
+
 .Veger - cursus (front view)
 [#img-veger-course] 
 image::images/veger-cursus.png[Veger cursus, 900]
 {nbsp} +
 
+*Steps for creating sweeper:*
+
 [cols="1, 15"]
 .Timetable summary for creating sweeper
+[#optional-id%breakable] 
 |===
 | *Day* | *Action*  
 | 1     | 1. Setup an empty six frame deep hive ('new hive' hereafter) +
@@ -643,16 +653,16 @@ image::images/veger-cursus.png[Veger cursus, 900]
 4. Reduce entrance +
 
 | 1 | *Two - four hours later (after foragers flew off):* +
-5. Add 2 frames with food resources: honey and pollen +
-6. Feed with sugar syrup +
-7. Perform varroa treatment
+5. Perform varroa treatment with oxalic acid dribble +
+6. Add 2 frames with food resources: honey and pollen +
+7. Feed with sugar syrup +
 
-| 8 | 8. Perform inspection
+| 3 | 8. Perform varroa treatment with oxalic acid dribble.
+
+| 8 | 9. Perform inspection
 
 |===
 
-
-*Steps for creating sweeper*
 
 .Veger - new hive (front view)
 [#img-veger-hive] 
@@ -663,7 +673,8 @@ image::images/veger-cursus-new-hive.png[Veger hive, 300, role=right]
 The new hive should be placed at least a few meters away from the parent hive. 
 
 . Create the following situation in the new hive:
-** Move two frames with brias including the queen from the parent hive to the new hive.
+** Move two frames with eggs and young larvae including the queen from the parent hive to the new hive.
+Make sure there is no capped brood on any frames, to aid varroa treatment (see below).
 ** Add a frame of foundation comb so that the young bees can build.
 ** Add a frame of drawn out comb so that the queen can continue laying eggs.
 
@@ -673,26 +684,37 @@ Such a large loss of bees to the parent hive simulates a natural swarm.
 The shook bees will consist of both nurse bees and forager bees. 
 The forager bees that are shook into the new hive will eventually fly back to their parent hive,
 because that still resides at their home location. The foragers are therefore only temporary 
-residents of the new hive. 
+residents of the new hive. +
++
+TODO: optionally: leave the hive entrance closed for 1 day to prevent flying back.
 
 . Reduce the new hive's entrance to make it easier for the new colony to defend their hive. 
+
+. Perform a varroa treatment with oxalic acid. +
++
+Oxalic acid drizzle does not reach varroa mites in capped brood cells. 
+However as there is no capped brood (only eggs and larvae were moved), 
+the mites climb on to the worker bees. 
+This makes an oxalic acid dribble effective, as the oxalic acid dribble then reaches most 
+or all of the mites. 
+
++
+After a varroa treatment with oxalic acid, the honey cannot be used for human consumption. +
 
 . Add a frame of honey and a frame of pollen. +
 Shake off all bees back into the parent hive before inserting it in the new hive, in case those bees are foragers. +
 Add these frames _after_ the foragers in the new hive flew back to their parent hive, to prevent robbing. 
 
-. Feed the new hive with <<Sugar syrup 1:1>> (or sugar fondant). +
+. Feed the new hive with <<Sugar syrup 1:1>>. +
 +
 This will stimulate the bees to build out the foundation comb, and the queen to lay eggs as if 
 there is an incoming nectar flow.  
 +
 It is important to feed the new hive _after_ its foragers flew back to their parent hive. 
 If feeding starts too soon, the foragers returning to their parent hive may recruit bees to the new hive. 
-This will cause robbery of the new hive's food stores by the parent hive. +
+This will cause robbery of the new hive's food stores by the parent hive.
 
 . Perform a varroa treatment with oxalic acid. +
-+
-After a varroa treatment with oxalic acid, the honey cannot be used for human consumption. +
 
 . Give the bees around a week to settle in, then do an inspection. +
 +
@@ -703,8 +725,11 @@ Then, either:
 * the bees and frames can be moved to a 10 frame box with 8 frames and 2 follower boards, or 
 * a honey super can be added on top. 
 
+{nbsp} +
 
-*Steps for parent hive*
+*Steps for parent hive:* +
+After the queen is removed, the workers left behind quickly notice they have lost their queen and 
+will begin raising new queens in emergency cells placed throughout the frames, often within 4 - 12 hours.
 
 [cols="1, 15"]
 .Timetable summary for parent hive
@@ -712,23 +737,32 @@ Then, either:
 | *Day* | *Action*  
 | 1     | 1. Ensure the parent hive has eggs and young larvae that the bees can promote to become queens +
 | 2     | 2. The worker bees will attempt to rear a new queen.
-| 11    | *In the evening:* +
-3. Either open all queen cells or create a three frame queen cell nuc with surplus queen cells
-| 12    | 4. Perform varroa treatment +
-TODO: should this be done _after_ the queen started laying in order not to stress her?
+| 12    | *In the evening:* +
+3. Either open all queen cells or create a three frame queen cell nuc with surplus queen cells. + 
 
+It is important to not wait until day 13, because the colony can swarm on day 13.  
+| 25 .. 30    | 4. Perform an inspection to check if the queen is laying eggs +
+5. Perform varroa treatment 
 |===
 
-1. Ensure the parent hive has eggs (1..3 days old) and larvae (1 day old). +
-The bees require this to promote several of those to become queens. +
+. Ensure the parent hive has eggs (1..3 days old) and larvae (1 day old). +
+The bees require this to promote several of those to become queens.
 If there are no eggs and/or young larvae, swap in a frame from a different hive that does. 
++ 
+Besides enabling queen rearing, open brood has the function of suppressing worker's ovaries in a colony that has become queenless. 
+After a colony loses the queen, the amount of open brood soon decreases and then disappears. 
+Without open-brood pheromone to suppress the worker ovaries, some of the workers will begin to lay unfertilized eggs which will mature into drones.
+It can be extremely hard to get the laying workers to accept a new queen. 
 
-2. From 4 to 12 hours after the queen disappeared, the worker bees will attempt rearing a new queen. +
+. From 4 to 12 hours after the queen disappeared, the worker bees will attempt rearing a new queen. +
 +
 They do so by building an emergency queen cell around one or more cells with brood containing
 larvae that are 1..3 days old (after a 3 day egg phase, so 4..6 days in total). 
++
+Be aware these newly queenless colonies often react like any other colony that has lost their queen — they may become more defensive of their home so 
+wearing protective gear when near this colony is advised. It is best to avoid opening the hive until at least day seven to give the testy bees time to tend to their business without adding more stress by opening the hive.
 
-3. 10 days after making the split, one of the following actions should be taken in the evening to prevent swarming:
+. 12 days after making the split, one of the following actions should be taken in the evening to prevent swarming:
 
 ** Carefully open up all queen cells and force all queens to emerge. +
 Because it is evening, the queens won't leave in a swarm, and instead fight each other during the night until only one remains alive. 
@@ -739,9 +773,25 @@ In that case, instead of opening up _all_ queen cells, some queen cells can be m
 Two or three queen cells should be left behind in the parent hive, and be in each other's vicinity
 so that the queens can find each other easily. 
 
-4. Perform a varroa treatment with oxalic acid. +
+. Perform an inspection to check if the queen is laying eggs
++
+Give the bees around two weeks after the queen emerges, then do an inspection. 
+During the inspection, it is important to determine the presence of eggs to know whether the queen successfully mated.
+
+. Perform a varroa treatment with oxalic acid. +
++
+A single oxalic acid dribble can be performed between day 25 and day 30 after the split. 
+All capped brood will then have emerged (24 days for drones), and the new brood layed by the queen will not be capped yet.
 +
 After a varroa treatment with oxalic acid, the honey cannot be used for human consumption. 
+
+. Perform an inspection to check if the queen is laying eggs +
++
+If 22 days after the split there are still no eggs, combine the split with a queen-right colony.
+
+. Perform an inspection every week and check and whether the bees have enough room. +
++
+When the bees are working on 4-5 frames, it is time to give them more space by moving them to a 10 frame box with foundation comb added.
 
 <<<
 
@@ -780,10 +830,14 @@ Therefore if a colony raises supersedure cells,
 it is probably best to leave them alone, and not use them to make a split.  
 See <<Different types of queen cells>> on how to distinguish different types of queen cells. 
 
+*Overview:*
+
 .Veger - queen cell (front view)
 [#img-veger-queen-cell] 
 image::images/veger-queen-cell.png[Veger queen cell, 900]
 {nbsp} +
+
+*Steps for creating sweeper:*
 
 [cols="1, 15"]
 .Timetable summary for creating sweeper
@@ -796,19 +850,20 @@ image::images/veger-queen-cell.png[Veger queen cell, 900]
 5. Reduce entrance +
 
 | 1 | *Two - four hours later (after foragers flew off):* +
-6. Add 2 frames with food resources: honey and pollen +
-7. Feed with sugar syrup +
-8. Wait for 24 hours for the workers to realize they are queenless
+6. Perform varroa treatment with oxalic acid dribble +
+7. Add 2 frames with food resources: honey and pollen +
+8. Feed with sugar syrup +
+9. Wait for 24 hours for the workers to realize they are queenless
 
-| 2 | 9. Move the frames aside and insert a frame with one or more queen cells in the middle of the brood nest.
+| 2 | 10. Move the frames aside and insert a frame with one or more queen cells in the middle of the brood nest.
 
-| 19 | 10. Perform varroa treatment
+| 19..20 | 11. Perform an inspection to check if the queen is laying eggs +
+12. Perform varroa treatment
 
+| 23 | 13. Perform an inspection to check if the queen is laying eggs
 
 |===
 
-
-*Steps for creating sweeper*
 
 .Veger - new hive (front view)
 [#img-veger-hive-queen-cell] 
@@ -819,9 +874,17 @@ image::images/veger-queen-cell-new-hive.png[Veger hive queen cell, 300, role=rig
 The new hive should be placed at least a few meters away from the parent hive. 
 
 . Create the following situation in the new hive:
-** Move 2 brood frames without queen cells from the parent hive to the new hive
+
+** Move two frames with eggs and young larvae, without the queen and without queen cells from the parent hive to the new hive.
+Make sure there is no capped brood on any frames, to aid varroa treatment (see below).
 ** Add a frame of foundation comb so that the young bees can build.
-** Add a frame of drawn out comb so that the queen can continue laying eggs.
+** Add a frame of drawn out comb so that the queen can continue laying eggs. +
++ 
+Ensure the new hive has open brood.
+Open brood has the function of suppressing worker's ovaries in a colony that has become queenless. 
+After a colony loses the queen, the amount of open brood soon decreases and then disappears. 
+Without open-brood pheromone to suppress the worker ovaries, some of the workers will begin to lay unfertilized eggs which will mature into drones.
+It can be extremely hard to get the laying workers to accept a new queen. 
 
 . Keep a frame slot free on the edge of the hive +
 +
@@ -837,6 +900,17 @@ because that still resides at their home location. The foragers are therefore on
 residents of the new hive. 
 
 . Reduce the new hive's entrance to make it easier for the new colony to defend their hive. 
+
+. Perform a varroa treatment with oxalic acid. +
++
+Oxalic acid drizzle does not reach varroa mites in capped brood cells. 
+However as there is no capped brood (only eggs and larvae were moved), 
+the mites climb on to the worker bees. 
+This makes an oxalic acid dribble effective, as the oxalic acid dribble then reaches most 
+or all of the mites. 
+
++
+After a varroa treatment with oxalic acid, the honey cannot be used for human consumption. +
 
 . Add a frame of honey and a frame of pollen. +
 Shake off all bees back into the parent hive before inserting it in the new hive, in case those bees are foragers. +
@@ -858,14 +932,40 @@ It takes around 2-12 hours before the colony realizes that they are now queenles
 Before that, the colony will not accept a new queen being introduced into the colony and will kill the new 'intruder' queen.
 By waiting for the bees to realize they are queenless, the colony is more likely to accept the new queen emerging from the inserted queen cell. 
 
-. Move the frames aside and insert a frame with one or more queen cells in the middle of the brood nest.
+. Move the frames aside and insert a frame with one or more queen cells in the middle of the brood nest. +
++
+Try to find a frame without capped brood, to aid in varroa treatment (see below). If the frame with 
+the queen cell does have capped brood, the queen cell can be cut out and placed in a frame without capped brood. 
+Note that extreme care is needed when handling queen cells to prevent them from being damaged and harming the queen. +
++
+Alternatively if there is only little capped brood on the frame with the queen cell, the capped brood can be punctured
+with a needle. The worker bees will then remove the dead pupae from their cells, forcing the varroa mites to climb out of the cells.
+
+. Perform an inspection to check if the queen is laying eggs
++
+Give the bees around two weeks after the queen cell is due to emerge, then do an inspection. 
+During the inspection, it is important to determine the presence of eggs to know whether the queen successfully mated.
 
 . Perform a varroa treatment with oxalic acid. +
 +
-By treating the colony 18 days after the split, the treatment is performed before the new brood is capped. +
+A single oxalic acid dribble can be performed on day 19 (or day 20 if it's cold) after the split. 
++
+By treating the colony 18 days after the split, the treatment is performed before the new brood is capped: +
+2 days queen maturing + 7 days mating flight + 9 days for new brood to be capped = 18. +
++
+Oxalic acid drizzle does not reach varroa mites in capped brood cells. However as there is no capped brood (only eggs and larvae were moved), the mites climb on to the worker bees. This makes an oxalic acid dribble effective, as the oxalic acid dribble then reaches most or all of the mites.
++
 After a varroa treatment with oxalic acid, the honey cannot be used for human consumption. +
 
-*Steps for parent hive*
+. If 22 days after the split there are still no eggs, combine the split with a queen-right colony. 
+
+. Perform an inspection every week and check and whether the bees have enough room. +
++
+When the bees are working on 4-5 frames, it is time to give them more space by moving them to a 10 frame box with foundation comb added. 
+
+{nbsp} +
+
+*Steps for parent hive:*
 
 There are no further steps to be taken for the parent hive: it has a queen, brood and food resources.
 
@@ -896,6 +996,11 @@ The flyer therefore can immediately be used for collecting honey and pollination
 * Creating new queen
 * Harvesting lots of honey
 
+*Assumptions:*
+
+* The donor colony has been treated for varroa mites previously. +
+Hence, a varroa treatment is not required for this split.  
+
 *Checks:*
 
 1. Check that nighttime temperatures are not too cold for a split. +
@@ -909,10 +1014,19 @@ The virgin queen will need drones with which to mate.
 Don’t try raising queens in any type of split until drones are plentiful.
 Depending on the climate, less or no drones may be available in early spring and late summer.
 
+3. Ensure the split can be completed just before the start of a large nectar flow. +
++ 
+The purpose of this type of split is to have a large group of foragers hoard as much nectar as possible. 
+If there is no nectar to forage, this split will not be as succesful.
+
+*Overview:*
+
 .Flyer - cursus (front view)
 [#img-flyer-course] 
 image::images/vlieger-cursus.png[Flyer cursus, 900]
 {nbsp} +
+
+*Steps for creating flyer:*
 
 
 [cols="1, 15"]
@@ -928,19 +1042,21 @@ image::images/vlieger-cursus.png[Flyer cursus, 900]
 
 |===
 
-*Steps for creating flyer*
-
 .Flyer - new hive with queen excluder (front view)
 [#img-flyer-hive-queen] 
 image::images/vlieger-cursus-new-hive.png[Flyer hive queen, 500, role=right]
 
 . Move the parent hive to a new location +
 +
-The old hive should be placed at least a few meters away from its original parent hive.
+The parent hive should be placed at least a few meters away from its original parent hive.
 
 . Setup an empty ten frame deep hive at the original parent location ('new hive' hereafter)
 
-. Move two frames with capped brood including the queen from the parent hive to the bottom of the new hive.
+. Move two or three frames with capped brood including the queen from the parent hive to the bottom of the new hive. +
++
+Open brood should remain in the parent hive as much as possible; the new hive's brood should be mostly capped. 
+The capped brood will emerge soon, and these new nurse nurse bees will not have a lot of brood to care for. 
+Therefore they will start building comb — even in comb honey supers.
 
 . Fill the new hive with drawn comb
 
@@ -950,12 +1066,17 @@ This prevents the queen from laying eggs in the honey super on top, as she canno
 and is confined to the bottom box. 
 It also prevents the bees from storing pollen in the honey super, making sure that honey stays pure. 
 
-. Add a honey super on top of the new hive.+
+. Add a honey super on top of the new hive. +
 + 
 With no open brood to take care of, nurse bees will shift their task to foraging sooner. 
 That, combined with the already abundant amount of foragers flying back from the parent hive, the split is ready to collect lots of honey. 
 
+{nbsp} +
+
 *Steps for parent hive:*
+
+The parent hive won’t swarm because it doesn’t have a queen nor enough capped brood.  
+It will raise a new queen from the eggs, but by the time the colony is strong, swarm season will be mostly over.
 
 See the same steps in <<Split: 5 frame walk away split - with queen (sweeper)>> for the parent hive. 
 
@@ -992,36 +1113,93 @@ Therefore if a colony raises supersedure cells,
 it is probably best to leave them alone, and not use them to make a split.  
 See <<Different types of queen cells>> on how to distinguish different types of queen cells. 
 
-.Doppen aflegger - new hive (front view)
+*Overview:*
+
+.Doppen aflegger (front view)
 [#img-doppenaflegger-cursus] 
 image::images/doppenaflegger-cursus.png[Doppen aflegger cursus, 900]
+
+*Steps for 3 frame split:*
+
+
+[cols="1, 15"]
+.Timetable summary for creating sweeper
+|===
+| *Day* | *Action*  
+| 1     | 1. Setup an empty three frame deep hive ('new hive' hereafter) +
+2. Move 1 or 2 brood frames with queen cells from the parent hive to the new hive +
+3. Keep a frame slot free on the edge of the hive +
+4. Shake 1-2 frames of bees from the parent hive into the new hive +
+5. Reduce entrance +
+
+| 1 | *Two - four hours later (after foragers flew off):* +
+6. Perform varroa treatment with oxalic acid dribble +
+7. Add 1 or 2 frames with food resources: honey and pollen +
+8. Feed with sugar syrup +
+
+| 19..20 | 9. Perform an inspection to check if the queen is laying eggs +
+10. Perform varroa treatment
+
+| 23 | 11. Perform an inspection to check if the queen is laying eggs +
+
+|===
+
 
 .Doppen aflegger - new hive (front view)
 [#img-doppenaflegger-hive] 
 image::images/doppenaflegger-new-hive.png[Doppen aflegger hive, 450, role=right]
 
-1. Setup an empty three frame deep hive ('new hive' hereafter)
-2. Create the following situation in the new hive:
-** Move one frame with brias including the queen cells from the parent hive to the new hive
-** Keep room for 2 additional frames
+. Setup an empty three frame deep hive ('new hive' hereafter)
+
+. Create the following situation in the new hive:
+** Move one frame with brias including the queen cells from the parent hive to the new hive.
+** Keep room for 2 additional frames.
 +
 OR: 
-** Move multiple frames with brias including the queen cells from the parent hive to the new hive
+** Move multiple frames with brias including the queen cells from the parent hive to the new hive. +
++
+Try to find a frame without capped brood, to aid in varroa treatment (see below). 
+If the frame with the queen cell does have capped brood, the queen cell can be cut out and placed in a frame without capped brood. 
+Note that extreme care is needed when handling queen cells to prevent them from being damaged and harming the queen.
++
+Alternatively if there is only little capped brood on the frame with the queen cell, the capped brood can be punctured with a needle. 
+The worker bees will then remove the dead pupae from their cells, forcing the varroa mites to climb out of the cells.
++
+Ensure the new hive has open brood.
+Open brood has the function of suppressing worker's ovaries in a colony that has become queenless. 
+After a colony loses the queen, the amount of open brood soon decreases and then disappears. 
+Without open-brood pheromone to suppress the worker ovaries, some of the workers will begin to lay unfertilized eggs which will mature into drones.
+It can be extremely hard to get the laying workers to accept a new queen. 
 
+. Keep a frame slot free on the edge of the hive. +
++
+Make sure all frames are adjacent and bees can cross between all frames in the hive, and keep the slot on one side of the hive empty. 
+The room will be used later on, to insert a frame with honey.
 
-3. Shake the bees of 1-2 frames off of the parent hive's frames into the new hive. +
+. Shake the bees of 1-2 frames off of the parent hive's frames into the new hive. +
 +
 The shook bees will consist of both nurse bees and forager bees. 
 The forager bees that are shook into the new hive will eventually fly back to their parent hive,
 because that still resides at their home location. The foragers are therefore only temporary 
 residents of the new hive. 
-4. Reduce the new hive's entrance to make it easier for the new colony to defend their hive. 
 
-5. Add a frame of honey and a frame of pollen. +
+. Reduce the new hive's entrance to make it easier for the new colony to defend their hive. 
+
+. Perform a varroa treatment with oxalic acid. +
++
+Oxalic acid drizzle does not reach varroa mites in capped brood cells. 
+However as there is little capped brood, the mites climb on to the worker bees. 
+This makes an oxalic acid dribble effective, as the oxalic acid dribble then reaches most 
+or all of the mites. 
++
+After a varroa treatment with oxalic acid, the honey cannot be used for human consumption. +
+
+. Add 1 or 2 frames of honey and a frame of pollen. +
++
 Shake off all bees back into the parent hive before inserting it in the new hive, in case those bees are foragers. +
 Add these frames _after_ its foragers flew back to their parent hive, to prevent robbing. 
 
-6. Feed the new hive with <<Sugar syrup 1:1>> (or sugar fondant) to encourage them to draw wax. +
+. Feed the new hive with <<Sugar syrup 1:1>> (or sugar fondant) to encourage them to draw wax. +
 +
 It is important to feed the new hive _after_ its foragers flew back to their parent hive. 
 If feeding starts too soon, the foragers returning to their parent hive may recruit bees to the new hive. 
@@ -1030,18 +1208,28 @@ This will cause robbery of the new hive's food stores by the parent hive. +
 A colony this small will not swarm because the cues to swarm are absent. 
 Instead, the queens will emerge from their queen cells, and fight each other until the strongest remains. 
 
-7. Give the bees around two weeks after the queen cell is due to emerge, then do an inspection. +
+. Perform an inspection to check if the queen is laying eggs +
 +
+Give the bees around two weeks after the queen cell is due to emerge, then do an inspection. 
 During the inspection, it is important to determine the presence of eggs to know whether the queen successfully mated.
 
-8. Perform a varroa treatment with oxalic acid 18 days after the queen cell is due to emerge. +
+. Perform a varroa treatment with oxalic acid. +
 +
-Perform the treatment for 3 consecutive days. 
+A single oxalic acid dribble can be performed on day 19 (or day 20 if it's cold) after the split. 
++
+By treating the colony 18 days after the split, the treatment is performed before the new brood is capped: +
+2 days queen maturing + 7 days mating flight + 9 days for new brood to be capped = 18. +
++
+Oxalic acid drizzle does not reach varroa mites in capped brood cells. However as there is little capped brood, 
+the mites climb on to the worker bees. This makes an oxalic acid dribble effective, as the oxalic acid dribble then 
+reaches most or all of the mites.
++
 After a varroa treatment with oxalic acid, the honey cannot be used for human consumption. +
 
-9. If 22 days after the split there are still no eggs, combine the split with a queen-right colony. 
+. If 22 days after the split there are still no eggs, combine the split with a queen-right colony. 
 
-10. Perform an inspection every week and check and whether the bees have enough room. 
+. Perform an inspection every week and check and whether the bees have enough room. +
++
 When the bees are working on all 3 frames, it is time to give them more space by moving them to a 6 frame box with foundation comb added. 
 
 <<<
@@ -1051,6 +1239,108 @@ When the bees are working on all 3 frames, it is time to give them more space by
 
 TODO
 
+== Single brood chamber vs multiple brood chambers 
+
+In this practice, the colony is managed in a single deep brood chamber, instead of in multiple brood chambers.
+The colony spends the winter in the single deep brood chamber. In spring, a honey super is added, 
+separated by a queen excluder.  
+This greatly simplifies the management of the colony. 
+
+Some advantages are:
+
+* The super goes on a little earlier than it would in multiple brood chambers. +
+This is required because it alleviates congestion and gives the bees more space. +
+By adding the honey super on earlier, honey is stored in the super earlier on in the season. 
+
+* Inspection is easier and quicker. +
+There is only a single brood chamber with 10 frames to go through. +
+This makes it easier to find the queen and inspect for diseases.
+
+* Disease treatment is easier. + 
+The brood nest is more compact and therefore easier and cheaper to treat against diseases. 
+
+* Moving the hive is easier. +
+A single brood chamber is easier to move around because it is smaller and weighs less. 
+
+* More honey is stored in the honey super. +
+With double deep brood chambers, more honey is stored in both brood chambers.
+With a single deep brood chamber, the brood chamber is mostly used for rearing brood, and most of the honey is stored in the honey super.  
+The single brood chamber practice therefore leads to more harvestable honey in the super. 
+
+Steps:
+
+.Single deep beekeeping, January - June (front view) - Source: The Bee Whisperer
+[#img-single-deep-beekeeping-1] 
+image::images/single-deep-beekeeping-1.png[Single deep beekeeping 1, 900]
+
+* Januari to April +
+Feed the bees <<Sugar syrup 1:1>>. 
+Thin sucrose solution gets the queen laying eggs and worker bees to build comb. 
+Workers don’t build comb unless nectar is coming in, which a thin sugar solution mimics. 
+Honey keeps them alive in the winter, to put fat bodies on the bees, it does not stimulate them to build comb. 
+In April, there will typically be around four frames of brood and one or two frames of honey. 
+
+* May +
+In May, there will typically be around six to eight frames of brood and two frames of honey. 
+Once the bees are occupying around eight frames, add a honey super on top with drawn comb. +
++
+The bees don't see frames with foundation the same way we humans do. The bees don't count this space as available space 
+until it is actually drawn out. That means that when a honey super with only foundation frames is added on top of the brood chamber, 
+the bees don't see it as additional space, as they can't yet put anything in there. Therefore, 
+when adding a honey super with foundation frames on top of a full brood box, it is likely that the bees
+will cast a swarm because they run out of usable space. Therefore, the honey super should contain frames
+with drawn comb. +
++
+At the end of May, there will typically be around four frames of brood in the super box (2).
+
+* June +
+In June, the super box (2) typically gets more filled with brood, allowing the colony to get strong
+with many bees. However, too much brood in the super box (2) will lead to swarming due to congestion in the hive. 
+To prevent swarming, 
+remove brood frames if there are more than four brood frames in the super box (2). 
+These sur-plus frames can be used
+to strengthen other weak colonies or to create nucs. 
+
+* June 10-20 +
+The queen is moved to the bottom brood box (1), and a queen excluder is added. 
+
+* July +
+In July, the brood in the honey super box (2) has emerged and is replaced with honey. 
+The bottom box (1) is typically filled with 8-9 frames of brood.
+Another super (3) is added for the bees to fill with honey. 
+
+
+.Single deep beekeeping, July - December (front view) - Source: The Bee Whisperer
+[#img-single-deep-beekeeping-2] 
+image::images/single-deep-beekeeping-2.png[Single deep beekeeping 2, 900]
+
+* August +
+In August, another super (4) is typically added.
+
+* September +
+Somewhere in September, when the main honey flow ends and the dearth starts to set in, the honey is harvested. 
+The honey supers are taken off and the honey harvested. If there is still a honey flow, a super box
+can be added back on top. +
++
+However, when there is no honey flow, the bottom brood box (1) will not have
+_any_ honey in it, and still contains quite a bit of brood. This is a recipe for disaster if the bees are not fed
+immediately after removing the honey. +
++
+Therefore, a feeder with <<Sugar syrup 1:2>> is added on top of the hive inside a super box. 
+This thick mixture will prevent the bees from having to work hard to remove the moisture from 
+the syrup.
+
+* October +
+In October, the winter feeding should be finished as it might get too cold for bees to move around
+and store syrup in the hive. Depending on the region and the winter season, the hive 
+should now contain around 15 kg of sugar syrup.
+This is also a good time for an oxalic acid treatment. 
+
+* November + 
+In November, the usual winter preparations are done; mouse guards are installed and where needed
+the hive is insulated. 
+
+
 == Diseases
 
 TODO
@@ -1059,7 +1349,25 @@ TODO
 
 TODO: translate. 
 
+Als varroa bestreden wordt,
+neemt de infectie met DWV in gelijke mate af met
+de mijten. Om dit virus op een adequate manier
+te onderdrukken is het noodzakelijk om varroa te
+bestrijden voordat de productie van winterbijen
+begint. Daarom moet varroa vóór 1 september
+bestreden zijn. Gebeurt dit niet dan ‘overwintert’
+het virus op de bijen en vormt het in het volgende
+bijenjaar een bedreiging.
+
 Recent onderzoek heeft laten zien dat een geforceerde broedstop eind juli / begin augustus gebruikt kan worden om oxaalzuur toe te passen. Door de koningin over een periode van 12 tot 14 dagen in een kluisje op te sluiten, ontstaat er exact 21 dagen na de start van het opsluiten een korte periode waarin geen gesloten broed aanwezig is. In deze periode kan oxaalzuur gesproeid worden met een effectiviteit van 98% tegen varroa (zie dosering hieronder). Het onderzoek liet zien dat de kans op sterfte van de koningin zeer gering was en dat de overlevingskansen in de winterperiode zeer gunstig waren.
+
+ Voor een goede overwintering
+is het essentieel dat deze bijen gezond zijn. Dat
+kan alleen als de varroa-infectiedruk laag is. Het is
+daarom belangrijk om varroamijten vóór de vorming
+van de winterbijen te bestrijden. Dit betekent dat de
+zomerbehandeling tegen varroa vóór 1 september
+afgerond moet zijn. 
 
 Meer informatie is hier te vinden: http://edepot.wur.nl/239714
 
@@ -1071,4 +1379,9 @@ https://www.honeybeesuite.com/how-to-apply-an-oxalic-acid-dribble/
 
 === Sugar syrup 1:1
 
+1 part water, 1 part sugar 
+
 === Sugar syrup 1:2
+
+1 part water, 2 parts sugar
+provides a thicker syrup that requires less effort from the bees to dehydrate it down for the winter and is the ratio recommended for fall feeding. 
