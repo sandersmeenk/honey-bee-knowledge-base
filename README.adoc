@@ -291,9 +291,6 @@ Instead, a good preparation in fall is required to enter the winter with a large
 to have a good size cluster at the buildup phase of the season, with plenty heating capacity. 
 
 ==== Expanding the brood nest
-The queen doesn’t reach maximum egg laying capacity until the cluster covers all 10 frames with bees. 
-Once all are covered, brood frames can be continuously harvested and replaced by drawn comb.
-This way, the queen can be held at maximum egg laying capacity, and splits be created at will.
 
 [#management-reversing-brood-boxes, ]
 
@@ -307,6 +304,11 @@ Heat that the bees and the larvae produce only goes up; it does not go down.
 The bottom box of the hive not being occupied by bees causes its temperature to be lower, and hence the queen may not lay eggs in there. 
 This limits the space for the queen's egg laying to the blue sphere, and may prevent the queen from laying at maximum capacity due to space restriction. 
 
+The queen doesn’t reach maximum egg laying capacity until the cluster covers all 10 frames with bees. 
+Once all are covered, brood frames can be continuously harvested and replaced by drawn comb.
+This way, the queen can be held at maximum egg laying capacity, and splits be created at will.
+
+*Reversing brood boxes* +
 By reversing the top and bottom boxes, the now empty top of the hive is warmed up by the occupied box below (see figure below, situation on the right).
 The queen however does not walk across honey bands, and therefore refuses to move to the top box for egg laying. 
 Queen bees being queens, do not like to get their feet dirty with food. 
@@ -322,94 +324,20 @@ Care must also be taken when the brood nest spans both boxes, as there need to b
 image::images/management-reversing-brood-boxes.png[img-management-reversing-brood-boxes, 900]
 {nbsp} +
 
+*Removing brood boxes* +
+When the bottom box is a honey super and is confirmed to be empty, it can also be removed at the end of the winter, instead of being placed on top. 
+The frames in the bottom box will be clean with no brood and not a drop of honey or pollen in them. 
+By removing the bottom box and storing the frames, they can be placed back on top later in the season as a honey super.
+
+Removing this bottom box should then be performed before 1 March, because the willow tree starts blooming between 5
+and 15 March. The bees will then store most of the pollen they forage in the bottom super, which makes the frames unusable 
+in a honey super to collect honey that is intended for human consumption. 
 
 === Reproduction
 
 === Food Storage
 
 === Dearth
-
-== Swarming
-
-Swarming is a means of reproduction for honey bees. 
-When a colony swarms, the old queen and about half the bees leave the parent colony to establish a new home. 
-Before they leave, the workers raise a batch of queens so the old colony can have a new queen and a good chance of survival.
-
-The swarm season begins in early spring when many flowers are blooming. 
-It usually ends at the beginning of the summer nectar dearth. 
-Although swarms can occur outside of swarm season, they are rare.
-
-Swarming can be minimized or taken advantage of when the cues for it are understood. 
-
-=== Swarming cues
-During the <<Buildup>> phase, there is a shift in the adult bee vs brood ratio, see the figure below. 
-
-At the spring turnover, the winter bees die off (blue purple area decreasing), and the amount of brood is going up (dotted line).
-After that turnover point, there is much more brood than there are adult bees, which is stressful for the adult bees. 
-
-Colonies tend to swarm when:
-
-* They are full of sealed brood or there are too many bees, and 
-* The queen runs out of room to lay eggs
-
-==== Cue: enough sealed brood
-The young larvae put out a pheromone E-β-ocimene that tells every bee in the hive that the queen is functioning and the brood nest is working. 
-When the colony runs out of room and the queen doesn't have any room to lay eggs, then three days later there is no young larvae pheromone. 
-When there's no young larvae pheromone, and there's pollen and nectar coming in, that tells the colony action needs to be taken immediately. 
-It needs to start rearing queen cells, either supersedure cells (the queen is replaced) or swarm cells (the colony is splitting).
-Therefore making sure the queen has plenty of room to lay is critical to prevent swarming. 
-
-.Age class distribution of workers over the year (source: Randy Oliver)
-[#img-swarming-age-class-distribution] 
-image::images/swarming-age-class-distribution.png[img-swarming-age-class-distribution, 900]
-{nbsp} +
-
-One adult bee covers three cells with her body. That means that when a full frame of brood emerges, this will cover three full frames with bees. 
-So colonies are ready to explode when frames contain that much sealed brood. 
-
-.Frames full of sealed brood (source: Randy Oliver)
-[#img-swarming-sealed-brood] 
-image::images/swarming-frames-sealed-brood.png[img-swarming-sealed-brood, 900]
-{nbsp} +
-
-The frame in the figure below is therefore a strong cue that this colony will swarm soon: 
-there is no young larvae pheromone and no room to lay eggs. 
-
-.Frame full of sealed brood without room to lay eggs (source: Randy Oliver)
-[#img-swarming-no-room] 
-image::images/swarming-frame-sealed-no-room.png[img-swarming-no-room, 900]
-{nbsp} +
-
-
-==== Cue: too many bees
-When there are too many bees, the queen pheromone is diluted among all those bees. 
-
-.Queen pheromone diluted (source: Randy Oliver)
-[#img-swarming-queen-pheromone-diluted] 
-image::images/swarming-queen-pheromone-diluted.png[img-swarming-queen-pheromone-diluted, 900]
-{nbsp} +
-
-==== Suppressing the swarm impulse
-The swarming impulse is suppressed by:
-
-* Queen pheromone, and 
-* Young larvae pheromone 
-
-Therefore, it can be managed by: 
-
-* Adding another box with frames with drawn comb
-* Pulling frames of sealed brood, and replacing them by frames with drawn comb
-* Removing adult bees 
-* Splitting the colony into two
-
-Splitting the colony should be performed a minimum of eight weeks before the main flow begins. 
-This avoids swarms, and allows to make new queens.  
-
-.Plan to prevent swarming (source: Randy Oliver)
-[#img-swarming-plan-to-prevent] 
-image::images/swarming-splits.png[img-swarming-plan-to-prevent, 900]
-{nbsp} +
-
 
 == Opening the hive 
 
@@ -545,9 +473,98 @@ No holes in the brood capping
 
 No uncapped brood with pupae in the cell
 
+
+== Swarming
+
+Swarming is a means of reproduction for honey bees. 
+When a colony casts the first (primary) swarm of the season, the queen and about half the bees leave the parent colony to establish a new home elsewhere. 
+Before the primary swarm leaves, the workers ensure that a batch of new queens are reared in the hive, 
+so that the parent colony can replace their queen and thus have a chance of survival.
+
+The swarm season begins in early spring when many flowers are blooming. 
+It usually ends at the beginning of the summer nectar dearth. 
+Although swarms can occur outside of swarm season, they are rare.
+
+Swarming can be minimized and taken advantage of when the cues for it are understood. 
+
+=== Swarming cues
+During the <<Buildup>> phase, there is a shift in the adult bee vs brood ratio, see figure "<<img-swarming-age-class-distribution>>" below. 
+
+At the spring turnover, the winter bees die off (blue purple area decreasing), and the amount of brood is going up (dotted line).
+Around that turnover point, there is much more brood than there are adult bees to nurture them. A smaller amount of adult bees 
+taking care of a large number of brood is stressful for the adult bees: it ages them faster and makes them more prone to disease.
+
+Colonies tend to swarm when:
+
+* They are full of sealed brood or there are too many bees, and 
+* The queen runs out of room to lay eggs
+
+
+.Age class distribution of workers over the year (source: Randy Oliver)
+[#img-swarming-age-class-distribution] 
+image::images/swarming-age-class-distribution.png[img-swarming-age-class-distribution, 900]
+{nbsp} +
+
+==== Cue: enough sealed brood
+The young larvae put out a pheromone E-β-ocimene that tells every bee in the hive that the queen is functioning and the brood nest is working properly. 
+When the colony runs out of room and the queen doesn't have any room to lay eggs, then three days later there is no more young larvae pheromone,
+because there is only older brood. 
+When there's no young larvae pheromone, and there's pollen and nectar coming in, that tells the colony action needs to be taken immediately. 
+It needs to start rearing queen cells, either supersedure cells (the malfunctioning queen is replaced) or swarm cells (the colony is splitting).
+Therefore making sure the queen has plenty of room to lay is critical to prevent swarming. 
+
+One adult bee covers three cells with her body. That means that when a full frame of brood emerges, this will cover three frames with bees. 
+So colonies are ready to explode when frames contain that much sealed brood. 
+
+.Frames full of sealed brood (source: Randy Oliver)
+[#img-swarming-sealed-brood] 
+image::images/swarming-frames-sealed-brood.png[img-swarming-sealed-brood, 900]
+{nbsp} +
+
+The frame in the figure below is therefore a strong cue that this colony will swarm soon: 
+there is no young larvae pheromone and no room to lay eggs (assuming the rest of the frames in the hive look similar). 
+
+.Frame full of sealed brood without room to lay eggs (source: Randy Oliver)
+[#img-swarming-no-room] 
+image::images/swarming-frame-sealed-no-room.png[img-swarming-no-room, 900]
+{nbsp} +
+
+
+==== Cue: too many bees
+When there are too many bees, the queen pheromone is diluted among all those bees. 
+
+.Queen pheromone diluted (source: Randy Oliver)
+[#img-swarming-queen-pheromone-diluted] 
+image::images/swarming-queen-pheromone-diluted.png[img-swarming-queen-pheromone-diluted, 900]
+{nbsp} +
+
+==== Suppressing the swarm impulse
+The swarming impulse is suppressed by:
+
+* Queen pheromone, and 
+* Young larvae pheromone 
+
+Therefore, it can be managed by: 
+
+* Adding another box with frames with drawn comb
+* Pulling frames of sealed brood from the hive, and replacing them by frames with drawn comb
+* Removing adult bees 
+* Splitting the colony
+
+Splitting the colony should be performed a minimum of eight weeks before the main flow begins. 
+This avoids swarms, and allows to make new queens.  
+
+.Plan to prevent swarming (source: Randy Oliver)
+[#img-swarming-plan-to-prevent] 
+image::images/swarming-splits.png[img-swarming-plan-to-prevent, 900]
+{nbsp} +
+
+
+
+
 == Splitting the colony 
 
-TODO: https://konvib.be/?page_id=2764
+// TODO: https://konvib.be/?page_id=2764
 
 When splitting the colony, a new queen needs to be raised for the colony without a queen. 
 This can either be done from:
@@ -581,28 +598,32 @@ Also referred to as queen cell splits +
 
 === Split preparation: Queens for pennies
 
-TODO
-https://scientificbeekeeping.com/queens-for-pennies/
+TODO +
+See https://scientificbeekeeping.com/queens-for-pennies/
 
 
 === Split preparation: Finding the queen
 
-TODO: tune and move 
+TODO
 
-*Steps for separating frames from the queen before splitting:*
 
-1. Identify frames that are to be moved into a nuc
-2. For each frame shake the bees off into their donor box, and place the frame into a new box
-3. Place a queen excluder on top of the bee donor box (this can be either the same or a different colony)
-4. Place the new box with frames on top of the queen excluder and put the lid on
-5. Wait 30 minutes 
-6. The frames in the new box are now populated with bees 
-7. Remove the new box and place it on its own bottom board 
+// *Steps for separating frames from the queen before splitting:*
+
+// 1. Identify frames that are to be moved into a nuc
+// 2. For each frame shake the bees off into their donor box, and place the frame into a new box
+// 3. Place a queen excluder on top of the bee donor box (this can be either the same or a different colony)
+// 4. Place the new box with frames on top of the queen excluder and put the lid on
+// 5. Wait 30 minutes 
+// 6. The frames in the new box are now populated with bees 
+// 7. Remove the new box and place it on its own bottom board 
+
 
 === Adding bees to a colony without splitting 
 
-Shake bees off of a frame in front of the hive. The older foragers will fly home, and not attempt to kill the queen. 
-The nurse bees will walk in and start working without hurting the queen.  
+TODO
+
+// Shake bees off of a frame in front of the hive. The older foragers will fly home, and not attempt to kill the queen. 
+// The nurse bees will walk in and start working without hurting the queen.  
 
 <<<
 
@@ -657,7 +678,7 @@ image::images/veger-cursus.png[Veger cursus, 900]
 6. Add 2 frames with food resources: honey and pollen +
 7. Feed with sugar syrup +
 
-| 3 | 8. Perform varroa treatment with oxalic acid dribble.
+| 5 | 8. Perform varroa treatment with oxalic acid dribble.
 
 | 8 | 9. Perform inspection
 
@@ -696,7 +717,7 @@ Oxalic acid drizzle does not reach varroa mites in capped brood cells.
 However as there is no capped brood (only eggs and larvae were moved), 
 the mites climb on to the worker bees. 
 This makes an oxalic acid dribble effective, as the oxalic acid dribble then reaches most 
-or all of the mites. 
+or all of the mites. Oxalic acid dribble kills mites for roughly 3 days after application.
 
 +
 After a varroa treatment with oxalic acid, the honey cannot be used for human consumption. +
@@ -782,6 +803,7 @@ During the inspection, it is important to determine the presence of eggs to know
 +
 A single oxalic acid dribble can be performed between day 25 and day 30 after the split. 
 All capped brood will then have emerged (24 days for drones), and the new brood layed by the queen will not be capped yet.
+Oxalic acid dribble kills mites for roughly 3 days after application.
 +
 After a varroa treatment with oxalic acid, the honey cannot be used for human consumption. 
 
@@ -907,7 +929,7 @@ Oxalic acid drizzle does not reach varroa mites in capped brood cells.
 However as there is no capped brood (only eggs and larvae were moved), 
 the mites climb on to the worker bees. 
 This makes an oxalic acid dribble effective, as the oxalic acid dribble then reaches most 
-or all of the mites. 
+or all of the mites. Oxalic acid dribble kills mites for roughly 3 days after application.
 
 +
 After a varroa treatment with oxalic acid, the honey cannot be used for human consumption. +
@@ -954,6 +976,7 @@ By treating the colony 18 days after the split, the treatment is performed befor
 2 days queen maturing + 7 days mating flight + 9 days for new brood to be capped = 18. +
 +
 Oxalic acid drizzle does not reach varroa mites in capped brood cells. However as there is no capped brood (only eggs and larvae were moved), the mites climb on to the worker bees. This makes an oxalic acid dribble effective, as the oxalic acid dribble then reaches most or all of the mites.
+Oxalic acid dribble kills mites for roughly 3 days after application.
 +
 After a varroa treatment with oxalic acid, the honey cannot be used for human consumption. +
 
@@ -1190,7 +1213,7 @@ residents of the new hive.
 Oxalic acid drizzle does not reach varroa mites in capped brood cells. 
 However as there is little capped brood, the mites climb on to the worker bees. 
 This makes an oxalic acid dribble effective, as the oxalic acid dribble then reaches most 
-or all of the mites. 
+or all of the mites. Oxalic acid dribble kills mites for roughly 3 days after application.
 +
 After a varroa treatment with oxalic acid, the honey cannot be used for human consumption. +
 
@@ -1346,6 +1369,31 @@ the hive is insulated.
 TODO
 
 === Varroa 
+
+==== When to test for varroa 
+
+Testing can start when there are adult drones in the hive, or when there is purple eyed drone brood 
+and the temperature is above 10 degrees Celcius consistently. +
+
+Testing can stop when the temperature is lower than that, or there is no drone activity as described above. 
+
+=== How to test for varroa 
+
+
+
+=== When to treat for varroa
+
+If the mite count exceeds 2% in in a sample of 300 bees, treatment is advised. 
+
+=== How to treat for varroa
+
+Oxalic dribble kills mites for roughly 3 days after application.
+
+
+
+
+
+
 
 TODO: translate. 
 
